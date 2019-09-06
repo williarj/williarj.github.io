@@ -1,1 +1,1 @@
-Just doin' Robert stuff.
+[Bioinformatics Reading Group](/BRG)
