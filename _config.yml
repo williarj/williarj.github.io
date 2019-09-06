@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
-title: CSSE220
-description: Object Oriented Development
+title: Robert Williamson
+description: 
 layouts_dir: .internal/layouts
 include: ['.internal']
-moodle: https://moodle.rose-hulman.edu/course/view.php?id=58664#section-0
