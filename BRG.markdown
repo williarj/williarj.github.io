@@ -13,8 +13,7 @@ To join the mailing list do a thing [here.]()
 
 |Date | |Location| |Paper|
 |-----|-|--------|-|-----|
-|Monday, Sep 16| |O259| |[Reconstructing the Population Genetic History of the Caribbean. Moreno-Estrada et al.  2016. PLoS Genetics.](https://doi.org/10.1371/journal.pgen.1003925)
-|Monday, Sep 30| |O259| |[TBD]()
-|Monday, Oct 14| |O259| |[TBD]()
-|Monday, Oct 28| |O259| |[TBD]()
-
+|Wednesday September 18| |O169| |[Reconstructing the Population Genetic History of the Caribbean. Moreno-Estrada et al.  2016. PLoS Genetics.](https://doi.org/10.1371/journal.pgen.1003925)
+|Wednesday October 2| |O169| |[TBD]()
+|Wednesday October 16| |O169| |[TBD]()
+|Wednesday October 30| |O169| |[TBD]()
