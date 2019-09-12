@@ -1,1 +1,4 @@
-Just doin' Robert stuff.
+[Robert\'s Schedule](/schedule)
+
+[Bioinformatics Reading Group](/BRG)
+
