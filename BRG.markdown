@@ -7,7 +7,9 @@ permalink: /BRG
 
 You can view submitted (but unscheduled) papers [here.](https://docs.google.com/spreadsheets/d/1VAtnKTbO98roSc1mFALO272g-jSK0TG1gDStn45HNpk/edit?usp=sharing)
 
-To join the mailing list do a thing [here.]() (Comming soon.)
+To join the mailing list use the form [here.](https://mailman.rose-hulman.edu/mailman/listinfo/bioreadinggroup)
+(You don't need to set up a password.)
+
 
 <h4>Fall Quarter 2019-20</h4>
 
