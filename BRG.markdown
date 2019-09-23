@@ -16,6 +16,6 @@ To join the mailing list use the form [here.](https://mailman.rose-hulman.edu/ma
 |Date |Time|Location| |Paper|
 |-----|----|--------|-|-----|
 |Wednesday September 18|4pm|O169| |[Reconstructing the Population Genetic History of the Caribbean. Moreno-Estrada et al.  2016. PLoS Genetics.](https://doi.org/10.1371/journal.pgen.1003925)
-|Wednesday October 2|4pm|O169| |[TBD]()
+|Wednesday October 2|4pm|O169| |[A large multi-ethnic genome-wide association study identifies novel genetic loci for intraocular pressure. Choquet et al. 2018. Nature Comm.](https://www.nature.com/articles/s41467-017-01913-6)
 |Wednesday October 16|4pm|O169| |[TBD]()
 |Wednesday October 30|4pm|O169| |[TBD]()
