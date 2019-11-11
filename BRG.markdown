@@ -3,6 +3,8 @@ title: Bioinformatics Reading Group
 permalink: /BRG
 ---
 
+[Take the schedule survey for Winter 2019-20 here.](https://www.when2meet.com/?8384734-QSHpL)
+
 [Submit Papers Here.](https://forms.gle/gvQ6eGXjk2GcWMNS7)
 
 You can view submitted (but unscheduled) papers [here.](https://docs.google.com/spreadsheets/d/1VAtnKTbO98roSc1mFALO272g-jSK0TG1gDStn45HNpk/edit?usp=sharing)
