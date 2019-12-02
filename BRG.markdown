@@ -3,7 +3,7 @@ title: Bioinformatics Reading Group
 permalink: /BRG
 ---
 
-[Take the schedule survey for Winter 2019-20 here.](https://www.when2meet.com/?8384734-QSHpL)
+[comment]: [Take the schedule survey for Winter 2019-20 here.](https://www.when2meet.com/?8384734-QSHpL)
 
 [Submit Papers Here.](https://forms.gle/gvQ6eGXjk2GcWMNS7)
 
