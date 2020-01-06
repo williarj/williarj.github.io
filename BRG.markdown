@@ -28,7 +28,7 @@ To join the mailing list use the form [here.](https://mailman.rose-hulman.edu/ma
 |Date |Time|Location| |Paper|
 |-----|----|--------|-|-----|
 |Thursday Dec 12th|9am|CSSE Conference Room (F230)| |[How Learning can Guide Evolution. Hinton & Nowlan. 1987. Complex Systems.](https://pdfs.semanticscholar.org/5d6c/84e7cd46d0a520ad6784a0f7f6825ef83685.pdf)
-|Thursday Jan 9th|9am|CSSE Conference Room| |[TENTATIVE - The population genetics of structural variants in grapevine domestication. Zhou et al. 2019. Nature Plants.](https://www.nature.com/articles/s41477-019-0507-8)
+|Thursday Jan 9th|9am|CSSE Conference Room| | [Organic Selection and Social Heredity: The Original Baldwin Effect Revisited. Le. 2019. Artificial Life Conference Proceesings.](https://www.mitpressjournals.org/doi/pdf/10.1162/isal_a_00214)
 |Thursday Jan 23rd|9am|CSSE Conference Room| |[TBD]()
 |Thursday Feb 6th|9am|CSSE Conference Room| |[TBD]()
 
