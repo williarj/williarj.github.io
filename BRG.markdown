@@ -23,14 +23,26 @@ To join the mailing list use the form [here.](https://mailman.rose-hulman.edu/ma
 |DATE|4pm|O169| |[TBD]()
 -->
 
+<h4>Spring Quarter 2019-20</h4>
+Theme - Coronaviruses
+
+|Date |Time|Location| |Paper|
+|-----|----|--------|-|-----|
+|DATE| TBD |CSSE Conference Room (F230)| |[The 2019‐new coronavirus epidemic: Evidence for virus evolution. Benvenuto et al. 2020. J Med Virology.]( https://doi.org/10.1002/jmv.25688)
+|DATE| TBD |CSSE Conference Room (F230)| |[SANTA-SIM: simulating viral sequence evolution dynamics under selection and recombination. Jariani et al. 2019. Virus Evolution.](https://doi.org/10.1093/ve/vez003)
+|DATE| TBD |CSSE Conference Room (F230)| |[Molecular epidemiology, evolution and phylogeny of SARS coronavirus. Luk et al. 2019. Infection Genet and Evol.](https://doi.org/10.1016/j.meegid.2019.03.001)
+|DATE| TBD |CSSE Conference Room (F230)| |[High reproduction number of Middle East respiratory syndrome coronavirus in nosocomial outbreaks: mathematical modelling in Saudi Arabia and South Korea. Choi et al. 2017. J Hospital Infection.](https://doi.org/10.1016/j.jhin.2017.09.017)
+
+
 <h4>Winter Quarter 2019-20</h4>
+Theme - The Baldwin Effect
 
 |Date |Time|Location| |Paper|
 |-----|----|--------|-|-----|
 |Thursday Dec 12th|9am|CSSE Conference Room (F230)| |[How Learning can Guide Evolution. Hinton & Nowlan. 1987. Complex Systems.](https://pdfs.semanticscholar.org/5d6c/84e7cd46d0a520ad6784a0f7f6825ef83685.pdf)
 |Thursday Jan 9th|9am|CSSE Conference Room| | [Organic Selection and Social Heredity: The Original Baldwin Effect Revisited. Le. 2019. Artificial Life Conference Proceesings.](https://www.mitpressjournals.org/doi/pdf/10.1162/isal_a_00214)
-|Thursday Jan 23rd|9am|CSSE Conference Room| |[TBD]()
-|Thursday Feb 6th|9am|CSSE Conference Room| |[TBD]()
+|Thursday Jan 23rd|9am|CSSE Conference Room| |[Building our own Baldwin model.](https://github.com/RHIT-CSSE/bio_info_reading_group_projects)
+|Thursday Feb 6th|9am|CSSE Conference Room| |[Extending our model.]()
 
 
 <h4>Fall Quarter 2019-20</h4>
