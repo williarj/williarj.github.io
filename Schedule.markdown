@@ -4,4 +4,5 @@ permalink: /schedule
 ---
 
 [Book a meeting with Robert at this link.](https://calendly.com/williarj/15min)
-![Robert's Current Quarter Schedule](figs/Rose_Schedule.png)
+[![Robert's Current Quarter Schedule](figs/Rose_Schedule.png)](figs/Rose_Schedule.png)
+Click to make me bigger!
