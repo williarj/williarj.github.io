@@ -28,10 +28,10 @@ Theme - Coronaviruses
 
 |Date |Time|Location| |Paper|
 |-----|----|--------|-|-----|
-|DATE| TBD |CSSE Conference Room (F230)| |[The 2019‐new coronavirus epidemic: Evidence for virus evolution. Benvenuto et al. 2020. J Med Virology.]( https://doi.org/10.1002/jmv.25688)
-|DATE| TBD |CSSE Conference Room (F230)| |[SANTA-SIM: simulating viral sequence evolution dynamics under selection and recombination. Jariani et al. 2019. Virus Evolution.](https://doi.org/10.1093/ve/vez003)
-|DATE| TBD |CSSE Conference Room (F230)| |[Molecular epidemiology, evolution and phylogeny of SARS coronavirus. Luk et al. 2019. Infection Genet and Evol.](https://doi.org/10.1016/j.meegid.2019.03.001)
-|DATE| TBD |CSSE Conference Room (F230)| |[High reproduction number of Middle East respiratory syndrome coronavirus in nosocomial outbreaks: mathematical modelling in Saudi Arabia and South Korea. Choi et al. 2017. J Hospital Infection.](https://doi.org/10.1016/j.jhin.2017.09.017)
+|Mar 19| 8am |CSSE Conference Room (F230)| |[The 2019‐new coronavirus epidemic: Evidence for virus evolution. Benvenuto et al. 2020. J Med Virology.]( https://doi.org/10.1002/jmv.25688)
+|Apr 2| 8am |CSSE Conference Room (F230)| |[SANTA-SIM: simulating viral sequence evolution dynamics under selection and recombination. Jariani et al. 2019. Virus Evolution.](https://doi.org/10.1093/ve/vez003)
+|Apr 23| 8am |CSSE Conference Room (F230)| |[Molecular epidemiology, evolution and phylogeny of SARS coronavirus. Luk et al. 2019. Infection Genet and Evol.](https://doi.org/10.1016/j.meegid.2019.03.001)
+|May 7| 8am |CSSE Conference Room (F230)| |[High reproduction number of Middle East respiratory syndrome coronavirus in nosocomial outbreaks: mathematical modelling in Saudi Arabia and South Korea. Choi et al. 2017. J Hospital Infection.](https://doi.org/10.1016/j.jhin.2017.09.017)
 
 
 <h4>Winter Quarter 2019-20</h4>
