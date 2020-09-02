@@ -23,6 +23,16 @@ To join the mailing list use the form [here.](https://mailman.rose-hulman.edu/ma
 |DATE|4pm|O169| |[TBD]()
 -->
 
+<h4>Winter Quarter 2019-20</h4>
+Theme - Machine Learning
+
+|Date |Time|Location| |Paper|
+|-----|----|--------|-|-----|
+|DATE|4pm|Teams| |[Machine Learning and Its Applications to Biology.](http://doi.org/10.1038/d41586-018-02174-z )
+|DATE|4pm|Teams| |[Inferring cellular networks using probabilistic graphical models.](http://doi.org/10.1126/science.1094068)
+|DATE|4pm|Teams| |[Supervised Machine Learning for Population Genetics: A New Paradigm.](http://doi.org/10.1016/j.tig.2017.12.005)
+|DATE|4pm|Teams| |[Predicting animal behaviour using deep learning: GPS data alone accurately predict diving in seabirds.](http://doi.org/10.1111/2041-210X.12926)
+
 <h4>Spring Quarter 2019-20</h4>
 Theme - Coronaviruses
 
