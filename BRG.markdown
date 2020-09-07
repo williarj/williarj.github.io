@@ -23,7 +23,7 @@ To join the mailing list use the form [here.](https://mailman.rose-hulman.edu/ma
 |DATE|4pm|O169| |[TBD]()
 -->
 
-<h4>Spring Quarter 2020-21</h4>
+<h4>Fall Quarter 2020-21</h4>
 Theme - Machine Learning
 
 |Date |Time|Location| |Paper|
