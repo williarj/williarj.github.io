@@ -28,7 +28,7 @@ Theme - Machine Learning
 
 |Date |Time|Location| |Paper|
 |-----|----|--------|-|-----|
-|Tue Sep 15|4pm|Teams| |[Machine Learning and Its Applications to Biology.](http://doi.org/10.1038/d41586-018-02174-z )
+|Tue Sep 15|4pm|Teams| |[Deep Learning for Biology.](http://doi.org/10.1038/d41586-018-02174-z )
 |Tue Sep 29|4pm|Teams| |[Inferring cellular networks using probabilistic graphical models.](http://doi.org/10.1126/science.1094068)
 |Tue Oct 13|4pm|Teams| |[Supervised Machine Learning for Population Genetics: A New Paradigm.](http://doi.org/10.1016/j.tig.2017.12.005)
 |Tue Oct 27|4pm|Teams| |[Predicting animal behaviour using deep learning: GPS data alone accurately predict diving in seabirds.](http://doi.org/10.1111/2041-210X.12926)
