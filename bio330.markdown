@@ -1,0 +1,235 @@
+---
+title: RHIT BIO330 - Evolutionary Biology
+permalink: /BIO330
+---
+
+<h4>Course Description</h4>
+
+Surveys three major themes of evolutionary biology: adaptation, diversity of life, and the shared characteristics of life. Mechanisms of evolution, speciation, phylogeny, and macroevolutionary processes are discussed.
+
+**Prerequisites:** BIO 130 - Evolution and Diversity
+
+<h4>Instructor</h4>
+
+Robert Williamson - [Robert's schedule](/figs/Rose_Schedule.png)
+Moench F205
+[Book a meeting with Robert](https://calendly.com/williarj/15min)
+
+<h4>Schedule</h4>
+
+assumed genetics (Ch 4 and Ch 5)
+
+1. Week 1
+   * Reading: 
+   * historical perspective - previous ideas (gradualism, fossils, lamarc) Ch 2, Ch 17/18 -- find some summary from WEIT
+   * HWE review and major forces -- Ch 6
+     * evolution as an algorithm
+     * fitness
+2. Week 2
+   * Reading: Ch 7
+   * Drift 1 (randomness)
+   * Drift 2 (buri paper and experimental design)
+3. Week 3
+   * Reading: 
+   * mutation (first changes to math) Ch 6.4
+   * migration & differentiation (F introduced) Ch 7
+4. Week 4
+   * Reading: 
+   * selection (delta p, directional, balancing, stabilizing) Ch 6
+   * selection 2 (lewontin and hubby, dominance, post -- examples of dominance or s estimates in recent work)
+5. Week 5
+   * Reading: Ch 11
+   * Sexual selection (female choice)
+   * Sexual selection (male competition)
+   * Submit review topic proposals
+6. Week 6
+   * Reading: 
+   * heredity (Galton height data, consider how it affects response to selection) (ch 9)
+   * evolution of sex Ch 8.3 (recombination, red queen, Aneil papers)
+7. Week 7
+   * Reading: 
+   * adaptation (weiss drought paper, how do we test for adaptation -- post examples) Ch 10
+   * adaptation 2 (sweeps) (signals of sweeps in diversity data -- pi analogous to heterozygosity)(examples, and complexities, sickle cell, lactase, altitude genes, foxp2) Ch 15
+   * Submit review draft
+8. Week 8
+   * Reading: 
+   * population differentiation (how do populations become different? - reminder about F statistics, measuring inbreeding, inbreeding depression)
+   * population differentiation (great wall plant data, how different are human populations, some structured populations of interest -- seagulls? guppies?)
+9. Week 9
+   * Reading: 
+   * speciation (BDMI, barriers to reproduction, maybe some math of these dynamics) Ch 16
+   * altruism? (or speciation 2; ch 12)
+10. Week 10
+    * Reading: papers
+    * epigenetics (sweden paper, some newer stuff, how to test these and being careful in science)
+    * non-biological evolution (linguistics, software selection, etc post some examples)
+    * Submit review final
+
+
+
+
+
+1. OVERFLOW
+   * Reading: 
+   * human evolution (advanced topics, contemporary evolution?, what might we expect in the future? more population sepecific stuff?) Ch20
+   * cooperation and conflict
+
+<h4>Course Objectives</h4>
+
+Upon completion of this course, students will be able to:
+
+* **Understand** the major forces of evolution and how they affect allele frequencies.
+* **Discuss** types of evidence that support and oppose evolutionary ideas.
+* Use the mathematical underpinnings of evolution to **make inferences** about the past and future of populations.
+* Critically **analyze** evolutionary hypotheses and explanations for traits.
+
+<h4>Texts</h4>
+
+<h5>Main text</h5>
+
+Freeman & Heron
+
+<h5>Other readings</h5>
+
+In the Light of Evolution
+
+Supplied primary literature
+
+Why Evolution is True
+
+<h5>Reading effectively</h5>
+
+Book should help frame, and connect some ideas we don't have time in class to do. 
+
+Other readings will be assumed you have read them before class they are assigned, they will be provided at least one class in advance. 
+
+<h4>Assessments</h4>
+
+<h5>Tokens</h5>
+
+Each student begins the quarter with <u>two tokens</u>, these are a second chance opportunity. They can be used on any assignment, submission, or activity throughout the quarter. If you are using a token you are expected to inform me within 2 days of the associated assessment item's normal due date (unless otherwise specified). 
+
+You will have several opportunities to gain tokens throughout the quarter. These might be grant for excellent participation, very good performance, or particularly insightful discussion. Robert will inform you of some opportunities to explicitly gain these tokens, but may grant them unannounced. Every interaction and submission should be considered an opportunity to use and gain tokens. 
+
+If you end the quarter with at least 2 tokens your final letter grade will receive a half letter-grade boost. 
+
+<h5>Weekly Analyses</h5>
+
+*Description*
+
+Each Friday, you will receive by email a question relating to course material. You will submit a response to this question by Tuesday at 5pm on Gradescope. I will return your submission to you ASAP. The question will almost certainly require outside reading or information acquisition; it will definitely require you to practice thinking in the higher levels of Bloom's taxonomy. Submissions will be scored as per the attached guidelines, using a specifications grading approach. See me in office for clarification of scores or comments.
+
+*Grading*
+
+The weekly analysis submissions will be scored using an approach called specifications grading. The specifications are listed below. To earn credit for a submission, all specifications must be met. Some commentary will be provided, although you may always consult me for guidance on improvement or different approaches. During the course of the class, you may re-submit via email a weekly analysis answer, within one week, with the original version included (in the same file as your revised answer) and indicating that you are cashing in a token. I will distribute at least 15 weekly analysis questions (at least one per week) with some weeks having two or even three questions that can be answered. In this way, you will be able to best regulate your effort. 
+
+*Grading scale*
+
+Eight passing submissions          50%
+
+Seven passing submissions          44%
+
+Six passing submissions            37%
+
+Five passing submissions           31%
+
+Four passing submissions           25%
+
+Three or fewer passing submissions   0%
+
+
+ *Specifications for a passing submission*
+
+* Incorporates concepts from class.
+
+* Takes a position.
+
+* Supports arguments with data or logic.
+
+* Identifies constraints, limitations, or alternate perspectives.
+
+* Represents a complete, organized, logical response.
+
+* Demonstrates Bloom's taxonomy levels of analysis, synthesis, or evaluation.
+
+* Incorporates the primary or secondary literature external to that examined in class.
+
+* Is professional in the communication approach, including grammatical and language choices.
+
+* Follows the submission guidelines.
+
+<h5>In-Class Participation</h5>
+
+You are expected to participate in discussions, activities, and some group work as part of class. This grade will reflect your participation in our live Teams meetings as well as participation through discussion in the Teams group. 
+
+<h5>Evolution Minute</h5>
+
+Each week you will be expected to do independent learning and research on relevant course topics. You are expected to find a relevant peer-reviewed piece of research, read it, and write a brief summary along with reflection on how it ties into the course topics. The papers you read should have been published no more than three years ago. (Though I would make exceptions for important classic papers if you okay it with me first.)
+
+You will post a link (preferably as a DOI link, not a gross library link, please) to the paper, and your write-up on the class Teams Group in the "Evolution Minute" section. 
+
+You are expected to review everyone's posts, and to **meaningfully** engage with at least 2 other posts each week. You might ask a question in some one's post, or pose an alternative interpretation of the data, or post a follow-up paper that is relevant. You must demonstrate a depth of thinking about the post in your engagement, a surface level question about the paper is not sufficient. 
+
+The cut-off for these posts and responses will be 5pm on Friday each week, at which point I will record your involvement for the week. If you have not met the requirements for engagement with these posts for the week I will let you know by Monday morning. The grade for the evolution minute is all or nothing, if you fully participate each week you get the full credit, if you do not you get no credit.
+
+<h5>Final Project</h5>
+
+Your final project will be writing a literature review about an evolution topic of your choice. This is meant to be written as an invited review for evolutionary biologists who are non-experts in the topic you are presenting. You should model your review after papers in the journal [Annual Review of Ecology, Evolution, and Systematics](https://www.annualreviews.org/journal/ecolsys). Your formatting for this assignment should follow the guidelines [described by the journal](https://www.annualreviews.org/page/authors/general-information#ecolsys). 
+
+Invited reviews like this are highly prestigious, highly cited, and can have huge impacts on the direction of a field for years after they are written. The goals of such reviews are to lay out the history of a field, the current state of research, and directions for future investigation. They usually focus on 2-3 specific ideas, methods, or theories and compare and contrast them. These reviews are more than a simple list of relevant references, they do high level synthesis in order to shape the future of research and indicate to new researchers where how the field got to its current state. 
+
+This assignment will have 4 main components:
+
+*First draft (10%)*
+You will submit a first draft of your review, this does not need to be completely written. Some sections can be stubs, however the main focus of the review and the stances it should take should be clear. A draft of any figures (hand-drawn approximations are fine) should be included. Additionally, the set of papers your review will rely on should be well fleshed out, and it should be clear how you are using the papers you will be citing. 
+
+*Submission draft and Review (20%)*
+You will submit a fully completed draft that meets all of the journal's submission guidelines. This draft will be sent out to reviewers who will assess the appropriateness for your review for publication. 
+
+You will act as an anonymous reviewer for 2 other submissions. You are expected to write a review that assesses the quality and appropriateness of the review, and make a decision if the review should be accepted or rejected for publication. I recommend reading [Elsevier's guide to reviewers](https://www.elsevier.com/reviewers/how-to-review) and in particular [look at their sample review](https://www.sciencedirect.com/science/article/pii/S016819231630106X) before you write your review (they have some very good resources linked at the bottom of the guide too). When you are asked to review a submission the editor (aka Robert) will send you instructions on what to submit. 
+
+<--
+Things to include for students reviews: summary of article and main arguments, suggest at least one new reference to add, assess the figures.
+-->
+
+*Response to Reviewers (10%)*
+Based on the feedback from your reviewers and the editor you will make changes to your submission and write a response to the reviewers. [Here is another Elsevier article](https://www.elsevier.com/connect/authors-update/how-to-respond-to-reviewer-comments-the-calm-way) about responding to reviewers you should read before hand. You will be assessed by how well you incorporate and respond to reviewer feedback. Remember: you *do not* have to make every change reviewers propose, but you must make a reasonable argument about why you are not making their proposed changes in your response.
+
+*Final submission (60%)*
+Your final submission will be your fully formatted and edited article along with the response to reviewers you have written. It will be graded based on how it improved over the corse of the peer-review process, its professionalism, and how well it demonstrates your depth of thought and understanding on topics in evolution. 
+
+<h5>Overall Grading</h5>
+
+Project 30%
+
+In-class participation 10%
+
+Evolution minute 10%
+
+Weekly analyses 50%
+
+<h5>Formatting guidelines</h5>
+
+Assignments will be submitted and returned via gradescope, the link and instructions for our gradescope page can be found on moodle. In general, assignments should be submitted as a pdf, in 12 point Arial font, they should always include your name and CM# on the first page. 
+
+<h4>Class attendance</h4>
+This class will be highly interactive, I expect you to have read and assigned material before class and come prepared to discuss, ask questions, and think deeply about the topics of the day. I will record our sessions over Teams for your review later if you need them, or if for some reason you cannot make a meeting. This should not be your regular plan for gathering course material, if you do not sufficiently participate in course discussion or miss too many live meetings you will receive a failing grade for the course. 
+
+<h4>Collaboration</h4>
+
+Collaboration is encouraged on homework, quizzes, and laboratories.  When you collaborate, you must properly credit your collaborators and clearly indicate the extent of the collaboration. In all cases, each individual is responsible for understanding and writing out the entire solution. For example, on weekly analyses, this means that once a group solution has been achieved, each collaborator must rework the problem and write up the solution independently. Copying is not collaboration.
+
+Any kind of plagiarism or cheating will result in a severe penalty in the course and Student Affairs will be notified. See [this page](https://www.rose-hulman.edu/campus-life/student-services/registrar/rules-and-procedures/discipline-and-suspension.html) for details.
+
+Most importantly, any actions that reduce your ability or your opportunity to learn can be considered academic misconduct. Make sure you learn!
+
+<h4>Concerns or Feedback</h4>
+
+I strongly encourage students to document special academic needs with staff at the Office of Student Affairs and/or the Counseling Center, and then to contact me as soon as possible so that we can work together to provide recommended academic accommodations while protecting your privacy.
+
+If you have any concerns about any course matters, you should tell someone. You can email your instructor, speak to your instructor, or leave anonymous feedback in Moodle. You can also contact the [department head](mailto:mellor@rose-hulman.edu), [Student Affairs](https://www.rose-hulman.edu/campus-life/student-affairs/index.html), or another Rose employee you feel comfortable with.
+
+While you are more than welcome to consult any member of our department if you have concerns, we realize it's helpful to have a few names to start with. If you have a concern and are not sure where to go, the following CSSE faculty have volunteered to be help out with any concerns you may have: Amanda Stouder (F222) and Kim Tracy (D216).
+
+This syllabus is subject to revision with prompt notification of enrolled students. 
+
