@@ -3,6 +3,9 @@ title: RHIT BIO330 - Evolutionary Biology
 permalink: /BIO330
 ---
 
+<h1>RHIT BIO330 - Evolutionary Biology</h1>
+
+<h2>Course Info</h2>
 <h4>Course Description</h4>
 
 Surveys three major themes of evolutionary biology: adaptation, diversity of life, and the shared characteristics of life. Mechanisms of evolution, speciation, phylogeny, and macroevolutionary processes are discussed.
@@ -12,68 +15,135 @@ Surveys three major themes of evolutionary biology: adaptation, diversity of lif
 <h4>Instructor</h4>
 
 Robert Williamson - [Robert's schedule](/figs/Rose_Schedule.png)
-Moench F205
+
+Office: Moench F205
+
 [Book a meeting with Robert](https://calendly.com/williarj/15min)
 
-<h4>Schedule</h4>
+<h2>Schedule</h2>
 
-assumed genetics (Ch 4 and Ch 5)
+You are assumed to have a working knowledge of basic genetics and phylogenetics for this class. If you need a review you should see Ch 4 and Ch 5 of the main text.
 
-1. Week 1
-   * Reading: 
-   * historical perspective - previous ideas (gradualism, fossils, lamarc) Ch 2, Ch 17/18 -- find some summary from WEIT
-   * HWE review and major forces -- Ch 6
+Week 1
+   * Reading: Ch 6, [Hardy (1908) *Science*](https://doi.org/10.1126/science.28.706.49)
+   * Historical perspectives 
+   * HWE
+   * Optional reading: [Edwards. (2008). *Genetics*](https://www.genetics.org/content/179/3/1143) A nice historical perspective on HWE.
+   
+<!--- 
+ * previous ideas (gradualism, fossils, lamarc) Ch 2, Ch 17/18 -- find some summary from WEIT
      * evolution as an algorithm
      * fitness
-2. Week 2
-   * Reading: Ch 7
-   * Drift 1 (randomness)
-   * Drift 2 (buri paper and experimental design)
-3. Week 3
-   * Reading: 
-   * mutation (first changes to math) Ch 6.4
-   * migration & differentiation (F introduced) Ch 7
-4. Week 4
-   * Reading: 
-   * selection (delta p, directional, balancing, stabilizing) Ch 6
-   * selection 2 (lewontin and hubby, dominance, post -- examples of dominance or s estimates in recent work)
-5. Week 5
+     * a really nice HWE history - https://www.genetics.org/content/179/3/1143
+--->
+
+Week 2
+   * Reading: Ch 7, [Buri (1956) *Evolution*](https://doi.org/10.1111/j.1558-5646.1956.tb02864.x)
+   * Drift 1 
+   * Drift 2 
+   
+<!---
+ * show some online drift simulations
+--->
+
+Week 3
+   * Reading: Ch 6.4, Ch 7, [Kong et al. (2012). *Nature*](https://doi.org/10.1038/nature11396)
+   * Mutation
+   * Migration & differentiation 
+   
+<!--
+* paper about the size of mutations, or frequency of them? or types?
+* paper about the highways and deer/coyotes etc
+* mutation introduced to HWE
+* F introduced 
+-->
+   
+Week 4
+   * Reading: Ch 6, [Lewontin & Hubby. (1966). *Genetics*](https://www.genetics.org/content/54/2/595)
+   * Selection 
+   * <u>Due Friday 5pm</u>: Submit final project topic proposals
+   
+<!--
+* (delta p, directional, balancing, stabilizing) 
+* artificial selection
+* (lewontin and hubby, dominance, post -- examples of dominance or s estimates in recent work)
+-->
+   
+Week 5
    * Reading: Ch 11
-   * Sexual selection (female choice)
-   * Sexual selection (male competition)
-   * Submit review topic proposals
-6. Week 6
-   * Reading: 
-   * heredity (Galton height data, consider how it affects response to selection) (ch 9)
-   * evolution of sex Ch 8.3 (recombination, red queen, Aneil papers)
-7. Week 7
-   * Reading: 
-   * adaptation (weiss drought paper, how do we test for adaptation -- post examples) Ch 10
-   * adaptation 2 (sweeps) (signals of sweeps in diversity data -- pi analogous to heterozygosity)(examples, and complexities, sickle cell, lactase, altitude genes, foxp2) Ch 15
-   * Submit review draft
-8. Week 8
-   * Reading: 
-   * population differentiation (how do populations become different? - reminder about F statistics, measuring inbreeding, inbreeding depression)
-   * population differentiation (great wall plant data, how different are human populations, some structured populations of interest -- seagulls? guppies?)
-9. Week 9
-   * Reading: 
-   * speciation (BDMI, barriers to reproduction, maybe some math of these dynamics) Ch 16
-   * altruism? (or speciation 2; ch 12)
-10. Week 10
-    * Reading: papers
-    * epigenetics (sweden paper, some newer stuff, how to test these and being careful in science)
-    * non-biological evolution (linguistics, software selection, etc post some examples)
-    * Submit review final
+   * Sexual selection 
+   
+<!--
+* female choice
+* male competition
+-->
+   
+Week 6
+   * Reading: Ch 9, Ch 8.3, [Becks & Agrawal. (2012). *PLoS Biology*](https://doi.org/10.1371/journal.pbio.1001317)
+   * Heredity 
+   * Sex 
+   * <u>Due Friday 5pm</u>: Rough draft of final project submitted on gradescope.
+   
+<!--
+*  (Galton height data, consider how it affects response to selection)
+*  (recombination, red queen Lively paper, Aneil papers)
+* 
+-->
+   
+Week 7
+   * Reading: Ch 10, Ch 15, [Franks et al. (2007). *PNAS*](https://doi.org/10.1073/pnas.0608379104)
+   * Adaptation 
+  
+<!--
+*  (weiss drought paper, how do we test for adaptation -- post examples) Ch 10
+*(signals of sweeps in diversity data -- pi analogous to heterozygosity)(examples, and complexities, sickle cell, lactase, altitude genes, foxp2) 
+-->
+   
+Week 8
+   * Reading: [Helgason et al. (2008) *Science*](https://doi.org/10.1126/science.1150232)
+   * population differentiation 
+   * <u>Due Friday *1pm*</u>: Submit final project for review process (this should be a polished final version, not a draft) via email to Robert. You will be assigned 2 submissions to review by the end of the day.
+   
+<!--
+* how do populations become different? - reminder about F statistics, measuring inbreeding, inbreeding depression)
+* (great wall plant data, how different are human populations, some structured populations of interest -- seagulls? guppies?)
+* Comment on Helgason https://science.sciencemag.org/content/sci/322/5908/1634.2.full.pdf
+-->
+   
+Week 9
+   * Reading: Ch 16, Ch 12, [Hatfield & Schluter. (1999). *Evolution*](https://doi.org/10.1111/j.1558-5646.1999.tb05380.x)
+   * Speciation
+   * Altruism   
+   * <u>Due Friday *1pm*</u>: Submit your reviews of the submissions via gradescope to Robert, you will received anonymized reviews of your submission by the end of the day.
+   
+<!--
+* (BDMI, barriers to reproduction, maybe some math of these dynamics) 
+* altruism 
+* paper about grandmothers and grandsons differential survival
+-->
+   
+Week 10
+   * Reading: [Pembrey. (2006). *Nature*](https://doi.org/10.1038/sj.ejhg.5201538), [Bowen. (2014). *Current Biology*](https://doi.org/10.1016/j.cub.2014.11.053)
+   * Epigenetics 
+   * Non-biological evolution 
+   * <u>Due Friday 5pm</u>: Submit your response to reviewers and your final project submission to gradescope. Your submission should include the original submission that was peer-reviewed as an appendix. All components should be submitted as one combined pdf.
+   
+<!--
+* (sweden paper, some newer stuff, how to test these and being careful in science)
+* (linguistics, software selection, etc post some examples)
+* contemporary human evolution?
+-->
+   
 
-
-
-
+<!--- this is a block comment
 
 1. OVERFLOW
    * Reading: 
    * human evolution (advanced topics, contemporary evolution?, what might we expect in the future? more population sepecific stuff?) Ch20
    * cooperation and conflict
+--->
 
+<h2>Course Info Part 2</h2>
 <h4>Course Objectives</h4>
 
 Upon completion of this course, students will be able to:
@@ -87,23 +157,30 @@ Upon completion of this course, students will be able to:
 
 <h5>Main text</h5>
 
-Freeman & Heron
+Freeman, S., & Herron, J. C. (2007). *Evolutionary analysis 5th ed.* 
+
+The chapter numbers in the schedule above refer to this text, readings are meant to supplement the discussions in class. 
 
 <h5>Other readings</h5>
 
-In the Light of Evolution
+* Losos, J. (2011). *In the Light of Evolution: Essays from the Laboratory and Field.*
 
-Supplied primary literature
+This book is a collection of essays written by researchers in evolution today. They talk about seminal experiments and ideas, some of these you might recognize from BIO130 or other courses. This is a great resource for jumping deeper into a few key ideas in evolution.
 
-Why Evolution is True
+* Coyne, J. (2009). *Why Evolution is True.*
+
+This text is a short volume that enumerates some of the major pieces of evidence for evolutionary thinking. It is a great introduction to evolutionary thought and refutes some of the common 'criticisms' of evolution. Jerry Coyne also has a blog of the same name where he reviews scientific articles, discusses evolution, and posts a lot of pictures of cats. 
+
+* Other readings will be provided on moodle, usually these will be peer-reviewed articles, with occasional other sources attached.
+
 
 <h5>Reading effectively</h5>
 
-Book should help frame, and connect some ideas we don't have time in class to do. 
+The textbook should be used to help fill in gaps in your knowledge and understanding, or reinforce ideas we discuss in class. Reading it is not strictly necessary, but encouraged. 
 
-Other readings will be assumed you have read them before class they are assigned, they will be provided at least one class in advance. 
+Other assigned readings provided on moodle will be assumed knowledge for our discussions in class, you should come prepared to discuss these and have questions about them ready each day. These readings might evolve over the course of the quarter to better reflect the interests of the class. You should regularly check the course schedule to ensure you are not missing any key readings.
 
-<h4>Assessments</h4>
+<h2>Assessments</h2>
 
 <h5>Tokens</h5>
 
@@ -125,17 +202,17 @@ The weekly analysis submissions will be scored using an approach called specific
 
 *Grading scale*
 
-Eight passing submissions          50%
+* Eight passing submissions          50%
 
-Seven passing submissions          44%
+* Seven passing submissions          44%
 
-Six passing submissions            37%
+* Six passing submissions            37%
 
-Five passing submissions           31%
+* Five passing submissions           31%
 
-Four passing submissions           25%
+* Four passing submissions           25%
 
-Three or fewer passing submissions   0%
+* Three or fewer passing submissions   0%
 
 
  *Specifications for a passing submission*
@@ -188,12 +265,10 @@ You will submit a fully completed draft that meets all of the journal's submissi
 
 You will act as an anonymous reviewer for 2 other submissions. You are expected to write a review that assesses the quality and appropriateness of the review, and make a decision if the review should be accepted or rejected for publication. I recommend reading [Elsevier's guide to reviewers](https://www.elsevier.com/reviewers/how-to-review) and in particular [look at their sample review](https://www.sciencedirect.com/science/article/pii/S016819231630106X) before you write your review (they have some very good resources linked at the bottom of the guide too). When you are asked to review a submission the editor (aka Robert) will send you instructions on what to submit. 
 
-<--
-Things to include for students reviews: summary of article and main arguments, suggest at least one new reference to add, assess the figures.
--->
+[comment]: Things to include for students reviews: summary of article and main arguments, suggest at least one new reference to add, assess the figures.
 
 *Response to Reviewers (10%)*
-Based on the feedback from your reviewers and the editor you will make changes to your submission and write a response to the reviewers. [Here is another Elsevier article](https://www.elsevier.com/connect/authors-update/how-to-respond-to-reviewer-comments-the-calm-way) about responding to reviewers you should read before hand. You will be assessed by how well you incorporate and respond to reviewer feedback. Remember: you *do not* have to make every change reviewers propose, but you must make a reasonable argument about why you are not making their proposed changes in your response.
+Based on the feedback from your reviewers and the editor you will make changes to your submission and write a response to the reviewers. [Here is another Elsevier article](https://www.elsevier.com/connect/authors-update/how-to-respond-to-reviewer-comments-the-calm-way) and [here is a PLoS article about the same](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730) about responding to reviewers you should read before hand. You will be assessed by how well you incorporate and respond to reviewer feedback. Remember: you *do not* have to make every change reviewers propose, but you must make a reasonable argument about why you are not making their proposed changes in your response.
 
 *Final submission (60%)*
 Your final submission will be your fully formatted and edited article along with the response to reviewers you have written. It will be graded based on how it improved over the corse of the peer-review process, its professionalism, and how well it demonstrates your depth of thought and understanding on topics in evolution. 
@@ -208,7 +283,9 @@ Evolution minute 10%
 
 Weekly analyses 50%
 
-<h5>Formatting guidelines</h5>
+<h2>Course Info Part 3</h2>
+
+<h4>Formatting guidelines</h4>
 
 Assignments will be submitted and returned via gradescope, the link and instructions for our gradescope page can be found on moodle. In general, assignments should be submitted as a pdf, in 12 point Arial font, they should always include your name and CM# on the first page. 
 
@@ -227,9 +304,9 @@ Most importantly, any actions that reduce your ability or your opportunity to le
 
 I strongly encourage students to document special academic needs with staff at the Office of Student Affairs and/or the Counseling Center, and then to contact me as soon as possible so that we can work together to provide recommended academic accommodations while protecting your privacy.
 
-If you have any concerns about any course matters, you should tell someone. You can email your instructor, speak to your instructor, or leave anonymous feedback in Moodle. You can also contact the [department head](mailto:mellor@rose-hulman.edu), [Student Affairs](https://www.rose-hulman.edu/campus-life/student-affairs/index.html), or another Rose employee you feel comfortable with.
+If you have any concerns about any course matters, you should tell someone. You can email your instructor, speak to your instructor, or leave anonymous feedback in Moodle. You can also contact the [department head](mailto:ahmed@rose-hulman.edu), [Student Affairs](https://www.rose-hulman.edu/campus-life/student-affairs/index.html), or another Rose employee you feel comfortable with.
 
-While you are more than welcome to consult any member of our department if you have concerns, we realize it's helpful to have a few names to start with. If you have a concern and are not sure where to go, the following CSSE faculty have volunteered to be help out with any concerns you may have: Amanda Stouder (F222) and Kim Tracy (D216).
+While you are more than welcome to consult any member of our department if you have concerns, we realize it's helpful to have a few names to start with. If you have a concern and are not sure where to go, the following CSSE faculty have volunteered to be help out with any concerns you may have: Amanda Stouder (F222) and Kim Tracy (D216) or appropriate BIO faculty.
 
 This syllabus is subject to revision with prompt notification of enrolled students. 
 
