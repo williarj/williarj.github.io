@@ -141,6 +141,16 @@ Week 10
    * Reading: 
    * human evolution (advanced topics, contemporary evolution?, what might we expect in the future? more population sepecific stuff?) Ch20
    * cooperation and conflict
+   
+   * swordtail a esolo https://science.sciencemag.org/content/250/4982/808.abstract question about the update paper with new phylogeny
+   * flour beetle group selection paper
+   * rat poison resistance
+   * helens sensory bias
+   * bateman gratient paper
+   * widow bird
+   * yellow dungfly evolution testes size
+   * adaptation rates in sex associated genes
+   
 --->
 
 <h2>Course Info Part 2</h2>
@@ -268,7 +278,7 @@ You will act as an anonymous reviewer for 2 other submissions. You are expected 
 [comment]: Things to include for students reviews: summary of article and main arguments, suggest at least one new reference to add, assess the figures.
 
 *Response to Reviewers (10%)*
-Based on the feedback from your reviewers and the editor you will make changes to your submission and write a response to the reviewers. [Here is another Elsevier article](https://www.elsevier.com/connect/authors-update/how-to-respond-to-reviewer-comments-the-calm-way) and [here is a PLoS article about the same](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730) about responding to reviewers you should read before hand. You will be assessed by how well you incorporate and respond to reviewer feedback. Remember: you *do not* have to make every change reviewers propose, but you must make a reasonable argument about why you are not making their proposed changes in your response.
+Based on the feedback from your reviewers and the editor you will make changes to your submission and write a response to the reviewers. [Here is another Elsevier article](https://www.elsevier.com/connect/authors-update/how-to-respond-to-reviewer-comments-the-calm-way) and [here is a PLoS article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730) about responding to reviewers, you should read these before starting your response. You will be assessed by how well you incorporate and respond to reviewer feedback. Remember: you *do not* have to make every change reviewers propose, but you must make a reasonable argument about why you are not making their proposed changes in your response.
 
 *Final submission (60%)*
 Your final submission will be your fully formatted and edited article along with the response to reviewers you have written. It will be graded based on how it improved over the corse of the peer-review process, its professionalism, and how well it demonstrates your depth of thought and understanding on topics in evolution. 
