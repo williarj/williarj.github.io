@@ -5,9 +5,9 @@ permalink: /BRG
 
 [comment]: [Take the schedule survey for Winter 2019-20 here.](https://www.when2meet.com/?8384734-QSHpL)
 
-[Submit Papers Here.](https://forms.gle/gvQ6eGXjk2GcWMNS7)
+[comment]:[Submit Papers Here.](https://forms.gle/gvQ6eGXjk2GcWMNS7)
 
-You can view submitted (but unscheduled) papers [here.](https://docs.google.com/spreadsheets/d/1VAtnKTbO98roSc1mFALO272g-jSK0TG1gDStn45HNpk/edit?usp=sharing)
+[comment]:You can view submitted (but unscheduled) papers [here.](https://docs.google.com/spreadsheets/d/1VAtnKTbO98roSc1mFALO272g-jSK0TG1gDStn45HNpk/edit?usp=sharing)
 
 To join the mailing list use the form [here.](https://mailman.rose-hulman.edu/mailman/listinfo/bioreadinggroup)
 (You don't need to set up a password.)
@@ -22,6 +22,17 @@ To join the mailing list use the form [here.](https://mailman.rose-hulman.edu/ma
 |DATE|4pm|O169| |[TBD]()
 |DATE|4pm|O169| |[TBD]()
 -->
+
+Blank schedule
+<h4>Winter Quarter 2020-21</h4>
+
+|Date |Time|Location| |Paper|
+|-----|----|--------|-|-----|
+|Fri Dec 11|3pm|Teams| |[Improved protein structure prediction using potentials from deep learning](https://doi.org/10.1038/s41586-019-1923-7)
+|Fri Jan 8|3pm|Teams| |[Deep learning‐based methods for individual recognition in small birds](https://doi.org/10.1111/2041-210X.13436)
+|Fri Jan 22|3pm|Teams| |[Deep Learning Classification of Polygenic Obesity using Genome Wide Association Study SNPs](https://doi.org/10.1109/IJCNN.2018.8489048)
+|Fri Feb 5|3pm|Teams| |[TBD]()
+
 
 <h4>Fall Quarter 2020-21</h4>
 Theme - Machine Learning
