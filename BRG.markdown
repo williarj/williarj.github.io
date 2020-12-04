@@ -29,8 +29,8 @@ Blank schedule
 |Date |Time|Location| |Paper|
 |-----|----|--------|-|-----|
 |Fri Dec 11|3pm|Teams| |[Improved protein structure prediction using potentials from deep learning](https://doi.org/10.1038/s41586-019-1923-7)
-|Fri Jan 8|3pm|Teams| |[Deep learning‐based methods for individual recognition in small birds](https://doi.org/10.1111/2041-210X.13436)
-|Fri Jan 22|3pm|Teams| |[Deep Learning Classification of Polygenic Obesity using Genome Wide Association Study SNPs](https://doi.org/10.1109/IJCNN.2018.8489048)
+|Fri Jan 8|3pm|Teams| |[Skin lesion segmentation in dermoscopy images via deep full resolution convolutional networks](https://doi.org/10.1016/j.cmpb.2018.05.027)
+|Fri Jan 22|3pm|Teams| |[Deep learning-based methods for individual recognition in small birds](https://doi.org/10.1111/2041-210X.13436)
 |Fri Feb 5|3pm|Teams| |[TBD]()
 
 
