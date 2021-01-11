@@ -25,7 +25,9 @@ Office: Moench F205
 You are assumed to have a working knowledge of basic genetics and phylogenetics for this class. If you need a review you should see Ch 4 and Ch 5 of the main text.
 
 Week 1
-   * Reading: Ch 6, [Hardy (1908) *Science*](https://doi.org/10.1126/science.28.706.49)
+   * Reading: 
+      * Ch 6
+      * [Hardy (1908) *Science*](https://doi.org/10.1126/science.28.706.49)
    * Historical perspectives 
    * HWE
    * Optional reading: [Edwards. (2008). *Genetics*](https://www.genetics.org/content/179/3/1143) A nice historical perspective on HWE.
@@ -38,7 +40,9 @@ Week 1
 --->
 
 Week 2
-   * Reading: Ch 7, [Buri (1956) *Evolution*](https://doi.org/10.1111/j.1558-5646.1956.tb02864.x)
+   * Reading: 
+      * Ch 7
+      * [Buri (1956) *Evolution*](https://doi.org/10.1111/j.1558-5646.1956.tb02864.x)
    * Drift 1 
    * Drift 2 
    
@@ -47,7 +51,10 @@ Week 2
 --->
 
 Week 3
-   * Reading: Ch 6.4, Ch 7, [Kong et al. (2012). *Nature*](https://doi.org/10.1038/nature11396)
+   * Reading: 
+      * Ch 6.4
+      * Ch 7
+      * [Kong et al. (2012). *Nature*](https://doi.org/10.1038/nature11396)
    * Mutation
    * Migration & differentiation 
    
@@ -58,8 +65,10 @@ Week 3
 * F introduced 
 -->
    
-Week 4
-   * Reading: Ch 6, [Lewontin & Hubby. (1966). *Genetics*](https://www.genetics.org/content/54/2/595)
+Week 4-5
+   * Reading: 
+      * Ch 6
+      * [Lewontin & Hubby. (1966). *Genetics*](https://www.genetics.org/content/54/2/595)
    * Selection 
    * <u>Due Friday 5pm</u>: Submit final project topic proposals
    
@@ -69,8 +78,11 @@ Week 4
 * (lewontin and hubby, dominance, post -- examples of dominance or s estimates in recent work)
 -->
    
-Week 5
-   * Reading: Ch 11
+Week 6
+   * Reading: 
+      * Ch 11
+      * In the Light of Evolution - Sex, Society, and Peacock Tails. Zuk & Orr. 
+      * [Gallup et al. (2003). *Evolution and Human Behavior*](https://doi.org/10.1016/S1090-5138(03)00016-3)
    * Sexual selection 
    
 <!--
@@ -78,10 +90,15 @@ Week 5
 * male competition
 -->
    
-Week 6
-   * Reading: Ch 9, Ch 8.3, [Becks & Agrawal. (2012). *PLoS Biology*](https://doi.org/10.1371/journal.pbio.1001317)
-   * Heredity 
+Week 7
+   * Reading: 
+      * Ch 9
+      * Ch 8.3
+      * [Becks & Agrawal. (2012). *PLoS Biology*](https://doi.org/10.1371/journal.pbio.1001317)
+      * [Helgason et al. (2008) *Science*](https://doi.org/10.1126/science.1150232)
+[comment]:   * Heredity - need to cut this for time, add this back in earlier in selection week 
    * Sex 
+   * Inbreeding
    * <u>Due Friday 5pm</u>: Rough draft of final project submitted on gradescope.
    
 <!--
@@ -89,33 +106,37 @@ Week 6
 *  (recombination, red queen Lively paper, Aneil papers)
 * 
 -->
-   
-Week 7
-   * Reading: Ch 10, Ch 15, [Franks et al. (2007). *PNAS*](https://doi.org/10.1073/pnas.0608379104)
-   * Adaptation 
-  
-<!--
-*  (weiss drought paper, how do we test for adaptation -- post examples) Ch 10
-*(signals of sweeps in diversity data -- pi analogous to heterozygosity)(examples, and complexities, sickle cell, lactase, altitude genes, foxp2) 
--->
-   
-Week 8
-   * Reading: [Helgason et al. (2008) *Science*](https://doi.org/10.1126/science.1150232)
-   * population differentiation 
-   * <u>Due Friday *1pm*</u>: Submit final project for review process (this should be a polished final version, not a draft) via email to Robert. You will be assigned 2 submissions to review by the end of the day.
-   
 <!--
 * how do populations become different? - reminder about F statistics, measuring inbreeding, inbreeding depression)
 * (great wall plant data, how different are human populations, some structured populations of interest -- seagulls? guppies?)
 * Comment on Helgason https://science.sciencemag.org/content/sci/322/5908/1634.2.full.pdf
 -->
    
+Week 8
+   * Reading: 
+      * Ch 10
+      * Ch 15
+      * [Franks et al. (2007). *PNAS*](https://doi.org/10.1073/pnas.0608379104)
+   * Adaptation 
+   * <u>Due Friday *1pm*</u>: Submit final project for review process (this should be a polished final version, not a draft) via email to Robert. You will be assigned 2 submissions to review by the end of the day.
+  
+<!--
+*  (weiss drought paper, how do we test for adaptation -- post examples) Ch 10
+*(signals of sweeps in diversity data -- pi analogous to heterozygosity)(examples, and complexities, sickle cell, lactase, altitude genes, foxp2) 
+-->
+   
+   
+  
 Week 9
-   * Reading: Ch 16, Ch 12, [Hatfield & Schluter. (1999). *Evolution*](https://doi.org/10.1111/j.1558-5646.1999.tb05380.x)
+   * Reading: 
+      * Ch 16
+      * Ch 12
+      * [Hatfield & Schluter. (1999). *Evolution*](https://doi.org/10.1111/j.1558-5646.1999.tb05380.x)
    * Speciation
    * Altruism   
    * <u>Due Friday *1pm*</u>: Submit your reviews of the submissions via gradescope to Robert, you will received anonymized reviews of your submission by the end of the day.
-   
+   * Guest Speaker Seminar by [Dr. Jen Coughlan](https://jenncoughlan.weebly.com/) - Date and time TBD  
+
 <!--
 * (BDMI, barriers to reproduction, maybe some math of these dynamics) 
 * altruism 
@@ -123,7 +144,9 @@ Week 9
 -->
    
 Week 10
-   * Reading: [Pembrey. (2006). *Nature*](https://doi.org/10.1038/sj.ejhg.5201538), [Bowen. (2014). *Current Biology*](https://doi.org/10.1016/j.cub.2014.11.053)
+   * Reading: 
+      * [Pembrey. (2006). *Nature*](https://doi.org/10.1038/sj.ejhg.5201538) 
+      * [Bowen. (2014). *Current Biology*](https://doi.org/10.1016/j.cub.2014.11.053)
    * Epigenetics 
    * Non-biological evolution 
    * <u>Due Friday 5pm</u>: Submit your response to reviewers and your final project submission to gradescope. Your submission should include the original submission that was peer-reviewed as an appendix. All components should be submitted as one combined pdf.
@@ -153,7 +176,7 @@ Week 10
    
 --->
 
-<h2>Course Info Part 2</h2>
+<h2>Course Management</h2>
 <h4>Course Objectives</h4>
 
 Upon completion of this course, students will be able to:
@@ -243,7 +266,7 @@ The weekly analysis submissions will be scored using an approach called specific
 
 * Is professional in the communication approach, including grammatical and language choices.
 
-* Follows the submission guidelines.
+* Follows the course submission guidelines.
 
 <h5>In-Class Participation</h5>
 
@@ -293,7 +316,7 @@ Evolution minute 10%
 
 Weekly analyses 50%
 
-<h2>Course Info Part 3</h2>
+<h2>Course Administrative Info</h2>
 
 <h4>Formatting guidelines</h4>
 
