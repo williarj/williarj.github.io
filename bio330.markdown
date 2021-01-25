@@ -2,7 +2,7 @@
 title: RHIT BIO330 - Evolutionary Biology
 permalink: /BIO330
 ---
-
+ 
 <h1>RHIT BIO330 - Evolutionary Biology</h1>
 
 <h2>Course Info</h2>
