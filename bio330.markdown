@@ -96,11 +96,11 @@ Week 7
       * Ch 8.3
       * [Becks & Agrawal. (2012). *PLoS Biology*](https://doi.org/10.1371/journal.pbio.1001317)
       * [Helgason et al. (2008) *Science*](https://doi.org/10.1126/science.1150232)
-[comment]:   * Heredity - need to cut this for time, add this back in earlier in selection week 
    * Sex 
    * Inbreeding
    * <u>Due Friday 5pm</u>: Rough draft of final project submitted on gradescope.
    
+[comment]:   * Heredity - need to cut this for time, add this back in earlier in selection week 
 <!--
 *  (Galton height data, consider how it affects response to selection)
 *  (recombination, red queen Lively paper, Aneil papers)
