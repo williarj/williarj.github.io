@@ -227,7 +227,7 @@ If you end the quarter with at least 2 tokens your final letter grade will recei
 
 *Description*
 
-Each Friday, you will receive by email a question relating to course material. You will submit a response to this question by Tuesday at 5pm on Gradescope. I will return your submission to you ASAP. The question will almost certainly require outside reading or information acquisition; it will definitely require you to practice thinking in the higher levels of Bloom's taxonomy. Submissions will be scored as per the attached guidelines, using a specifications grading approach. See me in office for clarification of scores or comments.
+Each Friday, you will receive by email a question relating to course material. You will submit a response to this question by Tuesday at 5pm on Gradescope. I will return your submission to you ASAP. The question will almost certainly require outside reading or information acquisition; it will definitely require you to practice thinking in the higher levels of Bloom's taxonomy. Submissions will be scored as per the attached guidelines, using a specifications grading approach. See me in office for clarification of scores or comments. You should indicate how long you spent working on the WA in your submission. 
 
 *Grading*
 
@@ -266,7 +266,7 @@ The weekly analysis submissions will be scored using an approach called specific
 
 * Is professional in the communication approach, including grammatical and language choices.
 
-* Follows the course submission guidelines.
+* Follows the course submission guidelines. [see below]
 
 <h5>In-Class Participation</h5>
 
@@ -320,7 +320,7 @@ Weekly analyses 50%
 
 <h4>Formatting guidelines</h4>
 
-Assignments will be submitted and returned via gradescope, the link and instructions for our gradescope page can be found on moodle. In general, assignments should be submitted as a pdf, in 12 point Arial font, they should always include your name and CM# on the first page. 
+Assignments will be submitted and returned via gradescope, the link and instructions for our gradescope page can be found on moodle. In general, assignments should be submitted as a pdf, in 12 point Arial font, they should always include your name and CM# on the first page. Note that WAs should include an estimate of the total amount of time spent working on them. 
 
 <h4>Class attendance</h4>
 This class will be highly interactive, I expect you to have read and assigned material before class and come prepared to discuss, ask questions, and think deeply about the topics of the day. I will record our sessions over Teams for your review later if you need them, or if for some reason you cannot make a meeting. This should not be your regular plan for gathering course material, if you do not sufficiently participate in course discussion or miss too many live meetings you will receive a failing grade for the course. 
