@@ -135,7 +135,6 @@ Week 9
    * Speciation
    * Altruism   
    * <u>Due Friday *1pm*</u>: Submit your reviews of the submissions via gradescope to Robert, you will received anonymized reviews of your submission by the end of the day.
-   * Guest Speaker Seminar by [Dr. Jen Coughlan](https://jenncoughlan.weebly.com/) - Date and time TBD  
 
 <!--
 * (BDMI, barriers to reproduction, maybe some math of these dynamics) 
@@ -144,6 +143,7 @@ Week 9
 -->
    
 Week 10
+   * Guest Speaker Seminar by [Dr. Jen Coughlan](https://jenncoughlan.weebly.com/) - Monday Feb 15, 4pm on Teams 
    * Reading: 
       * [Pembrey. (2006). *Nature*](https://doi.org/10.1038/sj.ejhg.5201538) 
       * [Bowen. (2014). *Current Biology*](https://doi.org/10.1016/j.cub.2014.11.053)
