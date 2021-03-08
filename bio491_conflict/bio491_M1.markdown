@@ -1,0 +1,24 @@
+---
+title: RHIT BIO491 - The Evolution of Genetic Conflict M1
+permalink: /BIO491_conflict/M1
+---
+ 
+<h1>RHIT BIO491 - Milestone 1</h1>
+
+For this milestone you should get familiar with GitHub and decide the system you will be basing your game on. 
+
+<h2> Git </h2>
+1. [Go to this link to set up your GitHub repository.](https://classroom.github.com/g/lYVHKPZM) If you are the first person on your team to do this you will need to add your team name, otherwise you will be able to select it from a list. 
+2. You should look in all the folders in this repository and read the README in each one (GitHub helpfully displays these at the bottom of the page). 
+3. [You can install git for windows at this link](https://gitforwindows.org/) or you can do everything through the web client. I'm going to assume the latter, but feel free to ask me if you want a crash course in git.
+4. Familiarize yourself with adding files using the "Add file" button, for this class you will likely only ever need the "upload files" option. Drag a file you want to add (or update) into the window, and type a description of your update in the "Commit changes" box at the bottom of the screen. 
+5. You might want to practice by making some edits to the "README" file and uploading them. 
+6. When making changes to files in git you do not need to delete them first, you just upload one with the same name. If you ever need to go back to an old version you can select the file, and press the "history" button in the top right, that will let you go back to any version of the file ever added to the repository. If you delete files you lose this ability, and the history of who made changes when.
+
+<h2> Your conflict system </h2>
+1. You should pick the conflict system you want to explore and model with a game. This can be a broad category (e.g. "cytoplasmic male sterility") or one very specific instance (e.g. "mother's curse alleles in French Canadian populations").
+2. Write a short document (no more than 2000 words) that described the scientific understanding of this system. What is it's history? What experiment types have been used to explore the system? How does this system interact with meiosis? You don't need to answer these questions, they are meant to inspire your thinking about the system.
+3. Create a list of 10 key features of this system and a 1 sentence description of each (e.g. "reverse transcriptase - an enzyme TEs use to create DNA copies of their replicated RNA"). These will serve as inspiration for the main mechanisms your game will revolve around.
+
+<h2>Turning it in</h2>
+You should submit a final pdf of your conflict description to the "milestones" folder in your repository, your "design" and "science_resources" folders should probably have documents and drafts related to your work. Feel free to include any other planning documents in the repository too, or even a word document version. But there must be a pdf (following the course submission guidelines) by the deadline.

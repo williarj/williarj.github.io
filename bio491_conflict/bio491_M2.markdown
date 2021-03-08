@@ -1,0 +1,18 @@
+---
+title: RHIT BIO491 - The Evolution of Genetic Conflict M2
+permalink: /BIO491_conflict/M2
+---
+ 
+<h1>RHIT BIO491 - Milestone 2</h1>
+
+For this milestone you will begin developing and planning your game. Keep in mind that the point of the game is to explain and demonstrate the conflict dynamics of your system. 
+
+<h2>Type of Game</h2>
+1. You need to pick the kind of game you plan on making. First, will this game be competitive (players compete with each other?) or cooperative (players work together to beat the game)? How many players will your game be designed for (any number is acceptable). Think about what makes the most sense for the types of dynamics you want to emphasize.
+2. Next you need to get a bit more detailed, take a look [at this guide for different board game types](https://www.dicebreaker.com/categories/board-game/how-to/board-game-types-explained). Try and pick one of these major categories for your game.
+3. Take your list of 10 key features from M1 and map them to possible mechanics in the game type you have chosen. (e.g. "reverse transcriptase - replicating DNA could analogous to collecting a set of tiles in our set collection game")
+4. Describe the general flow of the game (what are the major steps a player takes on a turn). 
+5. Start getting more detailed thinking about specific rules and kinds of play in your game, always keep in mind the science you are trying to demonstrate with the mechanics. 
+
+<h2>Turning it in</h2>
+You should submit  a final pdf with a document describing this info to the "milestones" folder. You don't need a full instruction set written at this point, but the more detail you provide the more feedback I can give.
