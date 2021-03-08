@@ -133,7 +133,7 @@ Your final project for this course will be to synthesize a genetic conflict syst
 
 This project will be done in groups of 2-3 students and have various artifacts you'll need to produce, described below. For some inspiration you might consider looking at [Peptide: A Protein Building Game](https://boardgamegeek.com/boardgame/166298/peptide-protein-building-game). Robert is also always happy to geek out about other board games or related media. 
 
-You'll be drafting these artifacts over a series of milestones during the quarter ([M1](M1) [M2](M2) [M3](M3)). After you have a team [you should follow this link](https://classroom.github.com/g/lYVHKPZM) to set up your repository for documents. Robert will give a brief git tutorial for how to use this.
+You'll be drafting these artifacts over a series of milestones during the quarter ([M1](BIO491_conflict/M1) [M2](BIO491_conflict/M2) [M3](BIO491_conflict/M3)). After you have a team [you should follow this link](https://classroom.github.com/g/lYVHKPZM) to set up your repository for documents. Robert will give a brief git tutorial for how to use this.
 
 <h4>Game Documents (50%)</h4>
 You will need to produce all the materials needed to learn, play, and teach your game. The language and formatting of these documents should be professional. The exact types of documents you will need to produce will depend on the game you design, but you will definitely need an instruction manual and may need to produce some cards, boards, etc. If you have specific material needs talk to Robert and we'll see what we can do. 
