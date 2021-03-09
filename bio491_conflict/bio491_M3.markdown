@@ -10,7 +10,7 @@ The goal of this milestone is to polish the instructions, show that you are test
 This milestone requires some coordination and planning, don't put this off until the last minute.
 
 <h2> Instructions</h2>
-1. You need to draft a full set of instructions for your game. [Read this article to consider how to write good instructions.](https://medium.com/@tim.chuon/how-to-write-a-good-board-game-rulebook-5e66cd9f7e40) Longer is not necessarily better here. Your instructions manual might need to include graphics, pictures, boxes, or other kinds of communication. 
+1. You need to draft a full set of instructions for your game. [Read this article to consider how to write good instructions.](https://medium.com/@tim.chuon/how-to-write-a-good-board-game-rulebook-5e66cd9f7e40) Longer is not necessarily better here, you might consider parallels to [writing effective methods in research papers](https://pubmed.ncbi.nlm.nih.gov/15447808/). Your instructions manual might need to include graphics, pictures, boxes, or other kinds of communication. 
 2. You should be updating and modifying this document iteratively. I expect the git history to demonstrate this, that is there should be several versions uploaded over time and edits made. 
 3. You should keep a document describing the decisions and changes you make over time. 
 
@@ -19,7 +19,6 @@ This milestone requires some coordination and planning, don't put this off until
 2. What are the 3-5 main scientific messages you are trying to communicate with your game? Write one question for each of these that a player should be able to answer after playing the game (e.g. "How does a transposable element cheat meiosis?").
 4. What are some parts of the system your game simplifies, or even misrepresents? (Misrepresentation isn't necessarily bad here, as long as you recognize it: "all models are wrong, but some are useful".) 
 5. What are the tradeoffs you made between game design and scientific communication? Would you do things differently next time?
-
 
 <h2>The playtest</h2>
 1. You should have someone test your game for this milestone, have them read the instructions and play it. 

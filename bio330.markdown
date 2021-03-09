@@ -88,6 +88,7 @@ Week 6
 <!--
 * female choice
 * male competition
+* good sperm competition review - https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0060
 -->
    
 Week 7
@@ -122,7 +123,10 @@ Week 8
   
 <!--
 *  (weiss drought paper, how do we test for adaptation -- post examples) Ch 10
-*(signals of sweeps in diversity data -- pi analogous to heterozygosity)(examples, and complexities, sickle cell, lactase, altitude genes, foxp2) 
+*(signals of sweeps in diversity data -- pi analogous to heterozygosity)(examples, and complexities, sickle cell, lactase, altitude genes, foxp2)
+* rename this week to 'quantittative genetics'
+* add the heredity stuff here
+* maybe add a QTL or GWAS day? 
 -->
    
    
@@ -140,6 +144,7 @@ Week 9
 * (BDMI, barriers to reproduction, maybe some math of these dynamics) 
 * altruism 
 * paper about grandmothers and grandsons differential survival
+* both of these topics need more time for reflection and reading
 -->
    
 Week 10
@@ -155,6 +160,7 @@ Week 10
 * (sweden paper, some newer stuff, how to test these and being careful in science)
 * (linguistics, software selection, etc post some examples)
 * contemporary human evolution?
+* here bring back in the heredity stuff to compare both mutation and heritability in epialleles vs dna alleles
 -->
    
 
@@ -173,6 +179,8 @@ Week 10
    * widow bird
    * yellow dungfly evolution testes size
    * adaptation rates in sex associated genes
+   * need to add a GxE section somewhere
+   * 
    
 --->
 
