@@ -29,7 +29,7 @@ Readings marked with a day number in brackets (e.g. [2]) before the author name 
 <h3>Day 1 - Course Overview and Meiosis</h3>
 * Date: March 11
 * Readings: 
-  * Get a general meiosis thing here
+  * Nothing yet!
 <!-- reading about prisoners dilemma, and meiosis overview -->
 
 <h3>Day 2 - General Conflict Theory</h3>
