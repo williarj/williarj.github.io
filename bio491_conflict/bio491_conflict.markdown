@@ -84,12 +84,17 @@ Emmanuel Milot
 
 * **Due: [M1](BIO491_conflict/M1) 5pm Friday**
 
-<h3>Day 13-14 - Imprinting</h3>
-* Date: April 27/29
+<h3>Day 13 - Imprinting</h3>
+* Date: April 27
 * Readings: 
   * Haig D. 2000. [The Kinship Theory of Genomic Imprinting.](https://doi.org/10.1146/annurev.ecolsys.31.1.9) AREES.
   * Ohlsson R, et al. 1993. [IGF2 is parentally imprinted during human embryogenesis and in the Beckwith-Wiedemann syndrome.](https://doi.org/10.1038/ng0593-94) Nature Genetics.
-  * Add a paper about selfing syndrome
+  * Add a paper about selfing syndrome XXX
+
+<h3>Day 14 - Guest Speaker</h3>
+* Date: April 29
+* We'll have a conversation with [Dr. Rebecca Batstone](http://rtbatstone.weebly.com/), a researcher at the University of Illinois who has designed board games to educate people about scientific concepts. 
+* Come ready with questions about science outreach, communication, and board games!
 * **Due: [M2](BIO491_conflict/M2) 5pm Friday**
 
 <h3>Day 15 - Project Meetings</h3>
