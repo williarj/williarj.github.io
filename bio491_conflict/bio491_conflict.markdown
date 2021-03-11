@@ -30,6 +30,7 @@ Readings marked with a day number in brackets (e.g. [2]) before the author name 
 * Date: March 11
 * Readings: 
   * Nothing yet!
+  * Bonus background reading on meiosis: Lenormand T, et al. 2016. [Evolutionary mysteries in meiosis.](https://dx.doi.org/10.1098%2Frstb.2016.0001) Phil Trans B.
 <!-- reading about prisoners dilemma, and meiosis overview -->
 
 <h3>Day 2 - General Conflict Theory</h3>
@@ -99,7 +100,7 @@ Emmanuel Milot
 
 <h3>Day 15 - Project Meetings</h3>
 * Date: May 4
-* You will have 15 minute group[s meetings with Robert in the classroom. About your final project.
+* You will have 15 minute group meetings with Robert in the classroom about your final project.
 
 <h3>Day 16 - Predicting Conflict</h3>
 * Date: May 6
