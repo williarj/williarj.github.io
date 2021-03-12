@@ -31,10 +31,11 @@ Readings marked with a day number in brackets (e.g. [2]) before the author name 
 * Readings: 
   * Nothing yet!
   * Bonus background reading on meiosis: Lenormand T, et al. 2016. [Evolutionary mysteries in meiosis.](https://dx.doi.org/10.1098%2Frstb.2016.0001) Phil Trans B.
+<!-- a great issue with weird sexual systems https://royalsocietypublishing.org/toc/rstb/2016/371/1706 -->
 <!-- reading about prisoners dilemma, and meiosis overview -->
 
 <h3>Day 2 - General Conflict Theory</h3>
-* Date: March 15
+* Date: March 16
 * Readings: 
   * Agren JA. 2016. [Selfish genetic elements and the gene's-eye view of evolution.](https://academic.oup.com/cz/article/62/6/659/2745836) Current Zoology.
   * Werren JH. 2011. [Selfish genetic elements, genetic conflict, and evolutionary innovation.](https://doi.org/10.1073/pnas.1102343108) PNAS 
