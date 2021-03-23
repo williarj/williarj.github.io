@@ -1,5 +1,7 @@
 [Robert\'s Schedule](/schedule)
 
+[Robert\'s Research](/research)
+
 [Bioinformatics Reading Group](/BRG)
 
 [BIO330 - Evolutionary Biology](/BIO330)
