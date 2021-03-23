@@ -111,9 +111,9 @@ Emmanuel Milot
 * Due: Nothing, but you should be working on [M3](BIO491_conflict/M3)
 * Robert will email out the schedule for the analysis presentations by Friday.
 
-<h3>Day 17 - Project Work Day</h3>
+<h3>Day 17 - Seminar Speaker</h3>
 * Date: May 11
-* A day set aside for you to work on your projects. 
+* We'll have a talk by [Dr. Arvid Agren](https://arvidagren.com/) on genetic conflict.
 * **Due: [M3](BIO491_conflict/M3) 5pm Tuesday May 11**
 
 <h3>Day 18/19 - Analysis Presentations</h3>
