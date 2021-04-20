@@ -78,7 +78,6 @@ Emmanuel Milot
 * Date: April 20/22
 * Bonus stuff: Github tutorial on Tuesday
 * Readings: 
-  * [11] Add Some general TE Family overview here XXX
   * [11] Le QH, et al. 2000. [Transposon diversity in Arabidopsis thaliana.](https://doi.org/10.1073/pnas.97.13.7376) PNAS.
   * [11] Li ZW, et al. 2018. [Transposable Elements Contribute to the Adaptation of Arabidopsis thaliana.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6117151/) Genome Biol. Evolution.
   * [12] Kim NS. 2017. [The genomes and transposable elements in plants: are they friends or foes?](https://doi.org/10.1007/s13258-017-0522-y) Genes & Genomics.
@@ -91,7 +90,6 @@ Emmanuel Milot
 * Readings: 
   * Haig D. 2000. [The Kinship Theory of Genomic Imprinting.](https://doi.org/10.1146/annurev.ecolsys.31.1.9) AREES.
   * Ohlsson R, et al. 1993. [IGF2 is parentally imprinted during human embryogenesis and in the Beckwith-Wiedemann syndrome.](https://doi.org/10.1038/ng0593-94) Nature Genetics.
-  * Add a paper about selfing syndrome XXX
 
 <h3>Day 14 - Guest Speaker</h3>
 * Date: April 29
