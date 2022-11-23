@@ -25,6 +25,10 @@ Office: Moench F205
 You are assumed to have a working knowledge of basic genetics and phylogenetics for this class. If you need a review you should see Ch 4 and Ch 5 of the main text.
 
 Week 1
+   * Day 1
+      * Topic: History of Evolution
+      * Reading: NA
+      * Due: NA
    * Reading: 
       * Ch 6
       * [Hardy (1908) *Science*](https://doi.org/10.1126/science.28.706.49)
