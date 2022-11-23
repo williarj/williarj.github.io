@@ -152,7 +152,7 @@ Week 7
       * Due: Hypothesis comments, [Becks & Agrawal. (2012). *PLoS Biology*](https://doi.org/10.1371/journal.pbio.1001317)
    * Day 3
       * Topic: Reviewing articles and Simulating inbreeding - Lab 7
-      * Reading: [AN ARTICLE WITH PUBLISHED REVIEWS Helgason et al. (2008) *Science*](https://doi.org/10.1126/science.1150232)
+      * Reading: [Pike et. al. *Proc B*](https://doi.org/10.1098/rspb.2021.1045), read the article and the review history (the red button right above the abstract will open this)
       [THE REVIEWS Helgason et al. (2008) *Science*](https://doi.org/10.1126/science.1150232)
       * Due: Lab 6, RHITER article draft 
 
@@ -308,15 +308,21 @@ Other assigned readings provided on moodle will be assumed knowledge for our dis
 
 Each student begins the quarter with <u>two tokens</u>, these are a second chance opportunity. They can be used on any assignment, submission, or activity throughout the quarter. If you are using a token you are expected to inform me within 2 days of the associated assessment item's normal due date (unless otherwise specified). 
 
-You will have several opportunities to gain tokens throughout the quarter. These might be grant for excellent participation, very good performance, or particularly insightful discussion. Robert will inform you of some opportunities to explicitly gain these tokens, but may grant them unannounced. Every interaction and submission should be considered an opportunity to use and gain tokens. 
+You will have several opportunities to gain tokens throughout the quarter. These might be grant for excellent participation, very good performance, or particularly insightful discussion. Robert will inform you of some opportunities to explicitly gain these tokens, but may grant them unannounced. Every interaction and submission should be considered an opportunity to use and gain tokens. A few good ways to earn tokens: send Robert and the class articles relevant to course topics that spark discussion, go above and beyond on analyses for Lab assignments, assist your peers in constructive ways.
 
 If you end the quarter with at least 2 tokens your final letter grade will receive a half letter-grade boost. 
+
+<h5>In-Class Participation</h5>
+
+You are expected to participate in discussions, activities, and some group work as part of class. This grade will reflect your participation in our live Teams meetings as well as participation through discussion in the Teams group. 
 
 <h5>Weekly Analyses</h5>
 
 *Description*
 
-Each Friday, you will receive by email a question relating to course material. You will submit a response to this question by Tuesday at 5pm on Gradescope. I will return your submission to you ASAP. The question will almost certainly require outside reading or information acquisition; it will definitely require you to practice thinking in the higher levels of Bloom's taxonomy. Submissions will be scored as per the attached guidelines, using a specifications grading approach. See me in office for clarification of scores or comments. You should indicate how long you spent working on the WA in your submission. 
+Each Friday, you will receive by email a question relating to course material. You will submit a response to this question by Monday at class time on Gradescope. I will return your submission to you ASAP. The question will almost certainly require outside reading or information acquisition; it will definitely require you to practice thinking in the higher levels of Bloom's taxonomy. Submissions will be scored as per the attached guidelines, using a specifications grading approach. See me in office for clarification of scores or comments. You should indicate how long you spent working on the WA in your submission. 
+
+Submissions must be written using the provided Overleaf project template.
 
 *Grading*
 
@@ -357,10 +363,32 @@ The weekly analysis submissions will be scored using an approach called specific
 
 * Follows the course submission guidelines. [see below]
 
-<h5>In-Class Participation</h5>
+<h5>Lab assigments</h5>
 
-You are expected to participate in discussions, activities, and some group work as part of class. This grade will reflect your participation in our live Teams meetings as well as participation through discussion in the Teams group. 
+*Description*
 
+Each week we will have a lab assignment where we will perform experiments to test evolutionary theory and practice developing our intuition for evolution. These labs will be assigned each Friday and will be due the following Friday.
+
+These assignments will largely use the [SLiM simulation framework](https://messerlab.org/slim/). You will need to practice interpreting, analyzing, and presenting data. Your submissions must use the provided Overleaf template.
+
+<h5>Hypothesis Comments</h5>
+
+To practice discussing science and interpreting papers some of the required readings will be annotated collaboratively on moodle using the Hypothesis system. These comments are due day 2 of class each week by class time. Moodle has links to the instructions for the hypothesis system for more detail. 
+
+You are required to make at least 2 annotations on each article, and comment on at least one annotation made by someone else. 
+
+This will be graded on an all or nothing basis; to earn credit your annotations and comments must meet these criteria:
+
+* Annotations bring up a meaningful question, comment, or interpretation of the source article.
+* Annotations are not purely about word definitions, but focus on concepts, ideas, and the process of science.
+* Comments on peer's annotations build on the original annotation and add to the discussion.
+* Comments on peer's annotations are not surface level agreements or similar.
+
+Some of these articles will be long, and you need to spend serious time reading them to have meaningful conversations. They are all available right now and to practice discussing science together we all need to be engaged at the same time, so there will be no late annotations or tokens accepted for these assignments. 
+
+Starting a fruitful discussion and including meaningful outside references in your annotations and comments can earn you tokens for use on other assignments. 
+
+<!-- replaced with hypothesis comments
 <h5>Evolution Minute</h5>
 
 Each week you will be expected to do independent learning and research on relevant course topics. You are expected to find a relevant peer-reviewed piece of research, read it, and write a brief summary along with reflection on how it ties into the course topics. The papers you read should have been published no more than three years ago. (Though I would make exceptions for important classic papers if you okay it with me first.)
@@ -370,49 +398,62 @@ You will post a link (preferably as a DOI link, not a gross library link, please
 You are expected to review everyone's posts, and to **meaningfully** engage with at least 2 other posts each week. You might ask a question in some one's post, or pose an alternative interpretation of the data, or post a follow-up paper that is relevant. You must demonstrate a depth of thinking about the post in your engagement, a surface level question about the paper is not sufficient. 
 
 The cut-off for these posts and responses will be 5pm on Friday each week, at which point I will record your involvement for the week. If you have not met the requirements for engagement with these posts for the week I will let you know by Monday morning. The grade for the evolution minute is all or nothing, if you fully participate each week you get the full credit, if you do not you get no credit.
+-->
 
-<h5>Final Project</h5>
+<h5>Final Project - RHITER Article</h5>
 
-Your final project will be writing a literature review about an evolution topic of your choice. This is meant to be written as an invited review for evolutionary biologists who are non-experts in the topic you are presenting. You should model your review after papers in the journal [Annual Review of Ecology, Evolution, and Systematics](https://www.annualreviews.org/journal/ecolsys). Your formatting for this assignment should follow the guidelines [described by the journal](https://www.annualreviews.org/page/authors/general-information#ecolsys). 
+Your final project will be writing a literature review about an evolution topic of your choice to be submitted to the journal Rose-Hulman Institute of Technology Evolution Review (RHITER). This is meant to be written as an invited review for evolutionary biologists who are non-experts in the topic you are presenting. You should model your review after papers in the journal [Annual Review of Ecology, Evolution, and Systematics](https://www.annualreviews.org/journal/ecolsys). Your formatting for this assignment should follow the guidelines [described by the journal](https://www.annualreviews.org/page/authors/general-information#ecolsys). 
 
 Invited reviews like this are highly prestigious, highly cited, and can have huge impacts on the direction of a field for years after they are written. The goals of such reviews are to lay out the history of a field, the current state of research, and directions for future investigation. They usually focus on 2-3 specific ideas, methods, or theories and compare and contrast them. These reviews are more than a simple list of relevant references, they do high level synthesis in order to shape the future of research and indicate to new researchers where how the field got to its current state. 
+
+We will read several example reviews and discuss them over the quarter to give you a feel for the kind of topics they cover. You can also see example previous issues of RHITER on moodle.
 
 This assignment will have 4 main components:
 
 *First draft (10%)*
-You will submit a first draft of your review, this does not need to be completely written. Some sections can be stubs, however the main focus of the review and the stances it should take should be clear. A draft of any figures (hand-drawn approximations are fine) should be included. Additionally, the set of papers your review will rely on should be well fleshed out, and it should be clear how you are using the papers you will be citing. 
+You will submit a first draft of your review, this does not need to be completely written. Some sections can be stubs, however the main focus of the review and the stances it should take should be clear. A draft of any figures (hand-drawn approximations are fine) should be included. Additionally, the set of papers your review will rely on should be well fleshed out, and it should be clear how you are using the papers you will be citing. You will submit a pdf and a zip file of your Overleaf project to gradescope for portion of the assignment. You must use the provided Overleaf template for this article.
 
-*Submission draft and Review (20%)*
-You will submit a fully completed draft that meets all of the journal's submission guidelines. This draft will be sent out to reviewers who will assess the appropriateness for your review for publication. 
+*Submission and Review (20%)*
+You will submit a fully completed article that meets all of the journal's submission guidelines. This draft will be sent out to reviewers who will assess the appropriateness for your review for publication. 
 
 You will act as an anonymous reviewer for 2 other submissions. You are expected to write a review that assesses the quality and appropriateness of the review, and make a decision if the review should be accepted or rejected for publication. I recommend reading [Elsevier's guide to reviewers](https://www.elsevier.com/reviewers/how-to-review) and in particular [look at their sample review](https://www.sciencedirect.com/science/article/pii/S016819231630106X) before you write your review (they have some very good resources linked at the bottom of the guide too). When you are asked to review a submission the editor (aka Robert) will send you instructions on what to submit. 
 
-[comment]: Things to include for students reviews: summary of article and main arguments, suggest at least one new reference to add, assess the figures.
+Your article will be submitted as a pdf to Moodle (not gradescope) for this portion of the assignment.
+
+Your review must include a summary of the article and its main arguments, you must suggest at least one new reference that should be included in the article, and you should include a discussion of the figures and their captions. Your review should refer to specific line numbers and sections of the original source. Your review will be submitted as a pdf to Moodle.
 
 *Response to Reviewers (10%)*
-Based on the feedback from your reviewers and the editor you will make changes to your submission and write a response to the reviewers. [Here is another Elsevier article](https://www.elsevier.com/connect/authors-update/how-to-respond-to-reviewer-comments-the-calm-way) and [here is a PLoS article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730) about responding to reviewers, you should read these before starting your response. You will be assessed by how well you incorporate and respond to reviewer feedback. Remember: you *do not* have to make every change reviewers propose, but you must make a reasonable argument about why you are not making their proposed changes in your response.
+Based on the feedback from your reviewers and the editor you will make changes to your submission and write a response to the reviewers. [Here is another Elsevier article](https://www.elsevier.com/connect/authors-update/how-to-respond-to-reviewer-comments-the-calm-way) and [here is a PLoS article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730) about responding to reviewers, you should read these before starting your response. You will be assessed by how well you incorporate and respond to reviewer feedback. Remember: you *do not* have to make every change reviewers propose, but you must make a reasonable argument about why you are not making their proposed changes in your response. 
+
+Your response to reviewers will be submitted as a pdf to gradescope.
 
 *Final submission (60%)*
 Your final submission will be your fully formatted and edited article along with the response to reviewers you have written. It will be graded based on how it improved over the corse of the peer-review process, its professionalism, and how well it demonstrates your depth of thought and understanding on topics in evolution. 
 
+Your final submission will be submitted as a pdf and a zip file of your Overleaf project to gradescope.
+
 <h5>Overall Grading</h5>
 
-Project 30%
+RHITER Article 30%
 
 In-class participation 10%
 
-Evolution minute 10%
+Hypothesis Annotations 10%
 
-Weekly analyses 50%
+Weekly analyses 30%
+
+Lab assignments 20%
+
+The grades on moodle do not necessarily reflect your actual grade. You can use the provided "What's my grade?" excel sheet on moodle to estimate your grade.
 
 <h2>Course Administrative Info</h2>
 
 <h4>Formatting guidelines</h4>
 
-Assignments will be submitted and returned via gradescope, the link and instructions for our gradescope page can be found on moodle. In general, assignments should be submitted as a pdf, in 12 point Arial font, they should always include your name and CM# on the first page. Note that WAs should include an estimate of the total amount of time spent working on them. 
+Assignments will be submitted and returned via gradescope or moodle, the link and instructions for our gradescope page can be found on moodle. In general, assignments should be submitted as a pdf, using the Overleaf templates provided. We will be practicing out LaTeX skills throughout the course, you can reference [this guide on basic LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) as you work through things. In general, do not get stuck on formatting problems. The core idea behind LaTeX is to separate the formatting from the content. For each assignment just write the text and worry about the formatting later. If you have a problem getting a file to compile into a pdf come see me, I will be generous with extensions related to these problems, but only if I see that your text is complete if you ask for help after an assignment is due.
 
 <h4>Class attendance</h4>
-This class will be highly interactive, I expect you to have read and assigned material before class and come prepared to discuss, ask questions, and think deeply about the topics of the day. I will record our sessions over Teams for your review later if you need them, or if for some reason you cannot make a meeting. This should not be your regular plan for gathering course material, if you do not sufficiently participate in course discussion or miss too many live meetings you will receive a failing grade for the course. 
+This class will be highly interactive, I expect you to have read and assigned material before class and come prepared to discuss, ask questions, and think deeply about the topics of the day. If you miss more than 3 days of class you will automatically fail the course. However, if you are sick or otherwise indisposed please do not come to class. Also, we are a small campus with high connectivity, [which is the perfect case for spread of infection disease.](https://www.pnas.org/doi/10.1073/pnas.1009094108) Therefore, I highly encourage you to get flu vaccines as soon as you can!
 
 <h4>Collaboration</h4>
 
