@@ -24,6 +24,8 @@ Office: Moench F205
 
 You are assumed to have a working knowledge of basic genetics and phylogenetics for this class. If you need a review you should see Ch 4 and Ch 5 of the main text.
 
+The textbook readings below are optional, but will help clarify and frame topics. The readings of primary source articles are required and expected to be done before they day of class they are associated with.
+
 Week 1
    * Day 1
       * Topic: History of Evolution
@@ -46,23 +48,36 @@ Week 1
 --->
 
 Week 2
-   * Reading: 
-      * Ch 7
-      * [Buri (1956) *Evolution*](https://doi.org/10.1111/j.1558-5646.1956.tb02864.x)
-   * Drift 1 
-   * Drift 2 
-   
+   * Day 1
+      * Topic: Genetic drift
+      * Reading: NA
+      * Due: WA1
+   * Day 2
+      * Topic: Genetic drift
+      * Reading: Ch 7.2-7.4
+      * Due: Hypothesis comments, [Buri (1956) *Evolution*](https://doi.org/10.1111/j.1558-5646.1956.tb02864.x)
+   * Day 3
+      * Topic: Quantifying drift - Lab 2
+      * Reading: NA
+      * Due: Lab 1
+  
 <!---
  * show some online drift simulations
 --->
 
 Week 3
-   * Reading: 
-      * Ch 6.4
-      * Ch 7
-      * [Kong et al. (2012). *Nature*](https://doi.org/10.1038/nature11396)
-   * Mutation
-   * Migration & differentiation 
+   * Day 1
+      * Topic: Mutation
+      * Reading: Ch 6.4
+      * Due: WA2
+   * Day 2
+      * Topic: Migration
+      * Reading: Ch 7.1, Ch 8.1-8.3
+      * Due: Hypothesis comments, [Kong et al. (2012). *Nature*](https://doi.org/10.1038/nature11396)
+   * Day 3
+      * Topic: Review articles & Population differentiation - Lab 3
+      * Reading: [Schoen & Schultz (2019). *AREES*](https://doi.org/10.1146/annurev-ecolsys-110218-024955)
+      * Due: Lab 2
    
 <!--
 * paper about the size of mutations, or frequency of them? or types?
@@ -71,13 +86,35 @@ Week 3
 * F introduced 
 -->
    
-Week 4-5
-   * Reading: 
-      * Ch 6
-      * [Lewontin & Hubby. (1966). *Genetics*](https://www.genetics.org/content/54/2/595)
-   * Selection 
-   * <u>Due Friday 5pm</u>: Submit final project topic proposals
+Week 4
+   * Day 1
+      * Topic: Selection
+      * Reading: Ch 6.2
+      * Due: WA3
+   * BREAK
+   * Day 2
+      * Topic: Selection
+      * Reading: Ch 6.3
+      * Due: Hypothesis comments, [Lewontin & Hubby. (1966). *Genetics*](https://www.genetics.org/content/54/2/595)
+   * Day 3
+      * Topic: Simulating selection - Lab 4
+      * Reading: [Nam et. al. (2017). *PNAS*](https://doi.org/10.1073/pnas.1605660114)
+      * Due: Lab 3   
    
+Week 5
+   * Day 1
+      * Topic: Quantitative genetics
+      * Reading: Ch 9.1-9.3
+      * Due: WA4
+   * Day 2
+      * Topic: Quantitative genetics
+      * Reading: Ch 9.4-9.7
+      * Due: Hypothesis comments, [Weis & Abrahamson. (1966). *Am Nat*](https://doi.org/10.1086/284513)
+   * Day 3
+      * Topic: Evolving phenotypes - Lab 5
+      * Reading: [Nam et. al. (2017). *PNAS*](https://doi.org/10.1073/pnas.1605660114)
+      * Due: Lab 4, RHITER article proposals   
+      
 <!--
 * (delta p, directional, balancing, stabilizing) 
 * artificial selection
@@ -85,11 +122,18 @@ Week 4-5
 -->
    
 Week 6
-   * Reading: 
-      * Ch 11
-      * In the Light of Evolution - Sex, Society, and Peacock Tails. Zuk & Orr. 
-      * [Gallup et al. (2003). *Evolution and Human Behavior*](https://doi.org/10.1016/S1090-5138(03)00016-3)
-   * Sexual selection 
+   * Day 1
+      * Topic: Sexual selection
+      * Reading: In the Light of Evolution - Sex, Society, and Peacock Tails. Zuk & Orr. 
+      * Due: WA5
+   * Day 2
+      * Topic: Sexual selection
+      * Reading: Ch 11.1-11.3
+      * Due: Hypothesis comments, [Gallup et al. (2003). *Evolution and Human Behavior*](https://doi.org/10.1016/S1090-5138(03)00016-3)
+   * Day 3
+      * Topic: Evolution of sex chromosomes - Lab 6
+      * Reading: [Kuijper et. al. (2012). *AREES*](https://doi.org/10.1146/annurev-ecolsys-110411-160245)
+      * Due: Lab 5
    
 <!--
 * female choice
@@ -98,16 +142,20 @@ Week 6
 -->
    
 Week 7
-   * Reading: 
-      * Ch 9
-      * Ch 8.3
-      * [Becks & Agrawal. (2012). *PLoS Biology*](https://doi.org/10.1371/journal.pbio.1001317)
-      * [Helgason et al. (2008) *Science*](https://doi.org/10.1126/science.1150232)
-   * Sex 
-   * Inbreeding
-   * <u>Due Friday 5pm</u>: Rough draft of final project submitted on gradescope.
-   
-[comment]:   * Heredity - need to cut this for time, add this back in earlier in selection week 
+   * Day 1
+      * Topic: Evolution of sex
+      * Reading: Ch 8.3
+      * Due: WA6
+   * Day 2
+      * Topic: Inbreeding
+      * Reading: Ch 7.4, [Helgason et al. (2008) *Science*](https://doi.org/10.1126/science.1150232)
+      * Due: Hypothesis comments, [Becks & Agrawal. (2012). *PLoS Biology*](https://doi.org/10.1371/journal.pbio.1001317)
+   * Day 3
+      * Topic: Reviewing articles and Simulating inbreeding - Lab 7
+      * Reading: [AN ARTICLE WITH PUBLISHED REVIEWS Helgason et al. (2008) *Science*](https://doi.org/10.1126/science.1150232)
+      [THE REVIEWS Helgason et al. (2008) *Science*](https://doi.org/10.1126/science.1150232)
+      * Due: Lab 6, RHITER article draft 
+
 <!--
 *  (Galton height data, consider how it affects response to selection)
 *  (recombination, red queen Lively paper, Aneil papers)
@@ -120,12 +168,18 @@ Week 7
 -->
    
 Week 8
-   * Reading: 
-      * Ch 10
-      * Ch 15
-      * [Franks et al. (2007). *PNAS*](https://doi.org/10.1073/pnas.0608379104)
-   * Adaptation 
-   * <u>Due Friday *1pm*</u>: Submit final project for review process (this should be a polished final version, not a draft) via email to Robert. You will be assigned 2 submissions to review by the end of the day.
+   * Day 1
+      * Topic: Adaptation
+      * Reading: Ch 10
+      * Due: WA7
+   * Day 2
+      * Topic: Adaptation
+      * Reading: Ch 15
+      * Due: Hypothesis comments, [Franks et al. (2007). *PNAS*](https://doi.org/10.1073/pnas.0608379104)
+   * Day 3
+      * Topic: Designing experiments - Lab 8
+      * Reading: [Hendry et. al. (2018). *AREES*](https://doi.org/10.1146/annurev-ecolsys-110617-062358)
+      * Due: Lab 7, RHITER article submission 
   
 <!--
 *  (weiss drought paper, how do we test for adaptation -- post examples) Ch 10
@@ -138,13 +192,18 @@ Week 8
    
   
 Week 9
-   * Reading: 
-      * Ch 16
-      * Ch 12
-      * [Hatfield & Schluter. (1999). *Evolution*](https://doi.org/10.1111/j.1558-5646.1999.tb05380.x)
-   * Speciation
-   * Altruism   
-   * <u>Due Friday *1pm*</u>: Submit your reviews of the submissions via gradescope to Robert, you will received anonymized reviews of your submission by the end of the day.
+   * Day 1
+      * Topic: Speciation
+      * Reading: Ch 16.1-16.2
+      * Due: WA8
+   * Day 2
+      * Topic: Speciation
+      * Reading: [Fishman & Sweigart. (2018). *ARPB*](https://doi.org/10.1146/annurev-arplant-042817-040113)
+      * Due: Hypothesis comments, [Hatfield & Schluter. (1999). *Evolution*](https://doi.org/10.1111/j.1558-5646.1999.tb05380.x)
+   * Day 3
+      * Topic: Evolution of incompatibilities - Lab 8
+      * Reading: NA
+      * Due: Lab 8, RHITER article reviews 
 
 <!--
 * (BDMI, barriers to reproduction, maybe some math of these dynamics) 
@@ -154,13 +213,29 @@ Week 9
 -->
    
 Week 10
-   * Guest Speaker Seminar by [Dr. Jen Coughlan](https://jenncoughlan.weebly.com/) - Monday Feb 15, 4pm on Teams 
-   * Reading: 
-      * [Pembrey. (2006). *Nature*](https://doi.org/10.1038/sj.ejhg.5201538) 
+   * Day 1
+      * Topic: Evolution of altruism (tentative)
+      * Reading: Ch 12.1-12.2
+      * Due: WA9
+   * Day 2
+      * Topic: Human evolution (tentative) <!-- could make this week social evolution broadly.. -->
+      * Reading: NA 
+      * Due: NA
+   * Day 3
+      * Topic: Guest speaker - [Dr. Nathaniel Sharp](https://genetics.wisc.edu/staff/sharp-nathaniel/)
+      * Reading: [Pick one article from Dr. Sharps publications list](https://scholar.google.com/citations?hl=en&user=wQKFHmMAAAAJ) Come ready to ask questions about it and see connections to their ongoing research.
+      * Due: Lab 9, RHITER final article, and response to reviewers 
+
+Finals week
+   * Day 1 (Monday)
+      * Due: WA10
+
+<!-- 
+* [Pembrey. (2006). *Nature*](https://doi.org/10.1038/sj.ejhg.5201538) 
       * [Bowen. (2014). *Current Biology*](https://doi.org/10.1016/j.cub.2014.11.053)
    * Epigenetics 
    * Non-biological evolution 
-   * <u>Due Friday 5pm</u>: Submit your response to reviewers and your final project submission to gradescope. Your submission should include the original submission that was peer-reviewed as an appendix. All components should be submitted as one combined pdf.
+-->
    
 <!--
 * (sweden paper, some newer stuff, how to test these and being careful in science)
