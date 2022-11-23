@@ -29,12 +29,14 @@ Week 1
       * Topic: History of Evolution
       * Reading: NA
       * Due: NA
-   * Reading: 
-      * Ch 6
-      * [Hardy (1908) *Science*](https://doi.org/10.1126/science.28.706.49)
-   * Historical perspectives 
-   * HWE
-   * Optional reading: [Edwards. (2008). *Genetics*](https://www.genetics.org/content/179/3/1143) A nice historical perspective on HWE.
+   * Day 2
+      * Topic: Hardy-Weinberg Equilibrium
+      * Reading: Ch 6.1
+      * Due: Hypothesis comments, [Hardy (1908) *Science*](https://doi.org/10.1126/science.28.706.49)
+   * Day 3
+      * Topic: Measuring Variation - Lab 1
+      * Reading: [Edwards. (2008). *Genetics*](https://www.genetics.org/content/179/3/1143)
+      * Due: NA
    
 <!--- 
  * previous ideas (gradualism, fossils, lamarc) Ch 2, Ch 17/18 -- find some summary from WEIT
