@@ -10,4 +10,4 @@
 
 [BIO431 - Genomics & Proteomics](/BIO431_genomics)
 
-[CSSE352 - Video Game Development]/CSSE352_game_dev)
+[CSSE352 - Video Game Development](/CSSE352_game_dev)
