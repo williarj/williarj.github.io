@@ -97,12 +97,13 @@ Upon completion of this course, students will be able to:
 2. **Identify** when to use features of a game engine or build custom software.
 3. **Explain** why they have chosen particular design elements for their software.
 
-<h4>Tools</h4><div id="tools"></div>
+<div id="tools"></div>
+<h4>Tools</h4>
 We will be using Unity for this course, you will need to download and install Unity hub [from here](https://unity.com/download). 
 
 After install you'll need to make a free account with Unity, you can use your RHIT email or a gmail or any of the other options.
 
-Finish reading this paragraph before you click things. After you have Unity hub installed you should download and install [*Unity 2020.3*](unityhub://2020.3.11f1/99c7afb366b3) released June 15, 2021, you'll need to navigate to find this link. This is a slightly older version of Unity, we're using this to stay consistent with the textbook. You should be able to click the "Unity Hub" button to have the download launch Hub and get everything set up, regardless of your OS. During install it will prompt you to install Unity Editor, agree. Then you will be prompted to get a personal edition license, agree to this as well. It will take a few minutes to install then you will see the appropriate version listed in the "Installs" section of Unity Hub. Check the version of unity that installs from that link, the first time I installed Unity Hub showed only *Unity 2021.3.20f1*, I had to click the link and install a second time to get the correct version (it prompted me to install Visual Studio for Mac the second time). 
+Finish reading this paragraph before you click things. After you have Unity hub installed you should download and install [*Unity 2020.3*](unityhub://2020.3.11f1/99c7afb366b3) released June 15, 2021, If that link does not work you can go to the [Unity download archive](https://unity.com/releases/editor/archive) and navigate to the correct version. This is a slightly older version of Unity, we're using this to stay consistent with the textbook. You should be able to click the "Unity Hub" button to have the download launch Hub and get everything set up, regardless of your OS. During install it will prompt you to install Unity Editor, agree. Then you will be prompted to get a personal edition license, agree to this as well. It will take a few minutes to install then you will see the appropriate version listed in the "Installs" section of Unity Hub. Check the version of unity that installs from that link, the first time I installed Unity Hub showed only *Unity 2021.3.20f1*, I had to click the link and install a second time to get the correct version (it prompted me to install Visual Studio for Mac the second time). 
 
 Unity has some click-intensive activities, you are required to bring a mouse to class for working with this tool. *Track-pads are not sufficient.*
 
