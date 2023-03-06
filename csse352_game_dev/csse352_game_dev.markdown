@@ -76,7 +76,7 @@ You are expected to complete readings by Friday of each week. Reading chapters b
 <h3> Week 10 - Game Jam </h3>
 * Readings: NA
 * Due: Friday - Jam Entry
-* Notes: You will make a team repo for your code. You can name your team anything, but your team name must start with the prefix `csse352-2223c-` (e.g. `csse352-2223c-roberts-awesome-team`). [This is the link to your Game Jam repo](https://classroom.github.com/a/1HSEumTE)
+* Notes: You will make a team repo for your code. You can name your team anything, but your team name must start with the prefix `csse352-2223c-` (e.g. `csse352-2223c-roberts-awesome-team`). [This is the link to your Game Jam repo](TODO ADD THIS)
 <!-- Game Jam -->
 
 <!--
@@ -109,7 +109,7 @@ Unity has some click-intensive activities, you are required to bring a mouse to 
 
 You can use any IDE you chose for code editing, I'll be using Visual studio, but Unity comes bundles with Mono if you prefer.
 
-We'll be using Github classroom for code submissions, you can find the [link for the homework assignments repos here](https://classroom.github.com/a/KHT6rwxm)
+We'll be using Github classroom for code submissions, you can find the [link for the homework assignments repos here](TODO ADD THIS)
 
 <h4>Texts</h4>
 Required text:
