@@ -35,48 +35,54 @@ You are expected to complete readings by Friday of each week. Reading chapters b
 
 <h3> Week 2 - Raycasts and physics </h3>
 * Readings: Ch 3
-* Due: Friday - Cabbage World
+* Assigned: Friday - Cabbage World
 <!-- Raycasts, build simple AI, component based, add simple game mechanics with some basic score? Number of cabbages collected? Just click cabbages? -->
 
 <h3> Week 3 - Input and UI </h3>
 * Readings: Ch 5, Ch 7, Ch 8
-* Due: Friday - Cabbage Tutorial
+* Due: Friday - Cabbage World
+* Assigned: Friday - Cabbage Tutorial
 <!-- Write a tutorial for cabbage world -->
 
 <h3> Week 4 - Building objects  </h3>
 * Readings: Ch 4 
-* Due: Friday - Particle System
+* Due: Friday - Cabbage Tutorial
+* Assigned: Friday - Particle System
 <!-- build a level design system, Build a particle system, add particles to cabbage world-->
 
 <h3> Week 5 - Game managers </h3>
 * Readings: Ch 9
-* Due: Friday - Messenger System
+* Due: Friday - Particle System
+* Assigned: Friday - Messenger System
 <!-- Write a Messenger System, have cabbage AIs communicate with game managers -->
 
 <h3> Week 6 - Level design and Reading files (Modding) </h3>
 * Readings: Ch 6
-* Due: Friday - Modding system
+* Due: Friday - Messenger System
+* Assigned: Friday - Modding system
 <!-- Write a modding system or a set of mods? Write a modding system to read in a bunch of level files, add levels to cabbage world? Add new entities to cabbage world via mod? Steam mod workshop integration -- future iteration? -->
 
 <h3> Week 7 - Sound, Delivery </h3>
 * Readings: Ch 11, Ch 13
-* Due: Friday - Cabbage sounds
+* Due: Friday - Modding system
+* Assigned: Friday - Cabbage sounds
 <!-- Deploying code, saving data, add sounds to cabbage world, have them upload to itch.io  -->
 
 <h3> Week 8 - Networking </h3>
 * Readings: Ch 10
-* Due: Friday - Cabbage network <!-- extra credit maybe? -->
+* Due: Friday - Cabbage sounds
+* Assigned: Friday - Cabbage network <!-- extra credit maybe? -->
 <!-- Networking, high scores for cabbage world, maybe multiplayer cabbages? -->
 
 <h3> Week 9 - Put it together </h3>
 * Readings: Ch 12
-* Due: NA
+* Due: Friday - Cabbage network 
 <!-- plan a game together, build something as a class, vote on themes, other classes reflection, brainstorming, simplifying, focus, choosing mechanics, planning some basic UML -->
 
 <h3> Week 10 - Game Jam </h3>
 * Readings: NA
 * Due: Friday - Jam Entry
-* Notes: You will make a team repo for your code. You can name your team anything, but your team name must start with the prefix `csse352-2223c-` (e.g. `csse352-2223c-roberts-awesome-team`). [This is the link to your Game Jam repo](TODO ADD THIS)
+* Notes: You will make a team repo for your code. You can name your team anything, but your team name must start with the prefix `csse352-2223c-` (e.g. `csse352-2223c-roberts-awesome-team`). [This is the link to your Game Jam repo](https://classroom.github.com/a/BCGotORz)
 <!-- Game Jam -->
 
 <!--
@@ -109,7 +115,7 @@ Unity has some click-intensive activities, you are required to bring a mouse to 
 
 You can use any IDE you chose for code editing, I'll be using Visual studio, but Unity comes bundles with Mono if you prefer.
 
-We'll be using Github classroom for code submissions, you can find the [link for the homework assignments repos here](TODO ADD THIS)
+We'll be using Github classroom for code submissions, you can find the [link for the homework assignments repos here](https://classroom.github.com/a/oH_ljSiL)
 
 <h4>Texts</h4>
 Required text:
