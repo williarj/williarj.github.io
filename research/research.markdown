@@ -45,10 +45,32 @@ Currently in collaboration with Dr. Alfred Tuley in the RHIT Chemistry departmen
 
 <h2>Past Research Students</h2>
 
+<h3>Mason Reid - BIO 2024 </h3>
+"The Genetic History of Hemp and Drug Type *Cannabis* Since Domestication."
+
+Mason is working on a project to do scans of selection on different types of *Cannabis* to detect the effects of domestication across the genome.
+
+<h3>Vidhu Naik (CS) and Jackson Shen (CS) - 2023 </h3>
+"Detecting Recent Frequency Dependent Selection using Random Forests and Bayesian Networks."
+
+Vidhu and Jackson worked on a Senior Research Project to develop a pipeline to train machine learning algorithms to detect balancing selection. They then applied this pipeline to *Capsella grandiflora* data to compare to earlier approaches. 
+
+<h3>Michael Hicks - BIO 2023 </h3>
+"Assessing the Effects of the Sonic Hedgehog Pathway Inhibitor Genistein on the Growth and Regeneration of *H. littoralis*."
+
+Michael worked to create protocols for testing the effects of one particular protein pathway on the regeneration abilities of Hydra. 
+
+<h3>Andrea (Ziqi) Chen - CS and BIO minor 2024</h3>
+"The effects of learning on the evolution of female mate choice." 
+
+Andrea worked on this project through the RSURF program over the summer of her second year at Rose. This work will be presented at the Evolution 2023 conference. 
+
+Andrea will be working on a thesis project in 2023-24.
+
 <h3>Ferguson Zhang - BIO/BCMB 2021</h3>
 "The genome-wide computational detection of short-term balancing selection in *Capsella grandiflora*."
 
-Ferguson is working on using deep sequencing of one population of *Capsella grandiflora* to detect signals of balancing selection across the genome.
+Ferguson worked  on using deep sequencing of one population of *Capsella grandiflora* to detect signals of balancing selection across the genome.
 
 <h3>Kathi Munoz-Hofman - BMTH 2020</h3>
 "Using Support Vector Machines and CKSAAP to Identify Protein Targets of Halopyridines."

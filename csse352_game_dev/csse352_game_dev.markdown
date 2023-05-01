@@ -38,45 +38,54 @@ You are expected to complete readings by Friday of each week. Reading chapters b
 * Assigned: Friday - Cabbage World
 <!-- Raycasts, build simple AI, component based, add simple game mechanics with some basic score? Number of cabbages collected? Just click cabbages? -->
 
-<h3> Week 3 - Input and UI </h3>
+<h3> Week 3 - Input, Game Managers </h3>
 * Readings: Ch 5, Ch 7, Ch 8
+* Patterns: Singleton 
 * Due: Friday - Cabbage World
-* Assigned: Friday - Cabbage Tutorial
+* Assigned: Friday - UI Presentation
 <!-- Write a tutorial for cabbage world -->
 
-<h3> Week 4 - Building objects  </h3>
+<h3> Week 4 - Scenes and UI  </h3>
 * Readings: Ch 4 
-* Due: Friday - Cabbage Tutorial
-* Assigned: Friday - Particle System
+* Patterns:  EventBus
+* Due: Friday UI Presentation
+* Assigned: Friday - Cabbage Tutorial
+<!-- * Assigned: Friday - Particle System -->
 <!-- build a level design system, Build a particle system, add particles to cabbage world-->
 
-<h3> Week 5 - Game managers </h3>
+<h3> Week 5 - Sprites and Animations </h3>
 * Readings: Ch 9
-* Due: Friday - Particle System
-* Assigned: Friday - Messenger System
+* Patterns: State Pattern
+* Pixel Art crash course
+* Due: Friday - Cabbage Tutorial
+<!-- * Due: Friday - Particle System -->
+<!-- * Assigned: Friday - Messenger System -->
 <!-- Write a Messenger System, have cabbage AIs communicate with game managers -->
 
-<h3> Week 6 - Level design and Reading files (Modding) </h3>
+<h3> Week 6 - Sound </h3>
 * Readings: Ch 6
-* Due: Friday - Messenger System
-* Assigned: Friday - Modding system
+<!-- * Due: Friday - Messenger System -->
+* Assigned: Friday - Midterm Game Project
 <!-- Write a modding system or a set of mods? Write a modding system to read in a bunch of level files, add levels to cabbage world? Add new entities to cabbage world via mod? Steam mod workshop integration -- future iteration? -->
 
-<h3> Week 7 - Sound, Delivery </h3>
+<h3> Week 7 - Midterm Project</h3>
 * Readings: Ch 11, Ch 13
-* Due: Friday - Modding system
-* Assigned: Friday - Cabbage sounds
+* Due: Friday - Game Project Demo
+<!-- * Assigned: Friday - Cabbage sounds -->
 <!-- Deploying code, saving data, add sounds to cabbage world, have them upload to itch.io  -->
 
-<h3> Week 8 - Networking </h3>
+<h3> Week 8 - More Game Features </h3>
 * Readings: Ch 10
-* Due: Friday - Cabbage sounds
-* Assigned: Friday - Cabbage network <!-- extra credit maybe? -->
+* Patters: Visitor
+<!-- * Due: Friday - Cabbage sounds -->
+<!-- * Assigned: Friday - Cabbage network <!-- extra credit maybe? --> -->
 <!-- Networking, high scores for cabbage world, maybe multiplayer cabbages? -->
+<!-- power ups, save game, reading files, modding, procedural generation?, ScriptableObjects -->
 
 <h3> Week 9 - Put it together </h3>
 * Readings: Ch 12
-* Due: Friday - Cabbage network 
+* Assigned: Friday - Game Jam Begins
+<!-- * Due: Friday - Cabbage network -->
 <!-- plan a game together, build something as a class, vote on themes, other classes reflection, brainstorming, simplifying, focus, choosing mechanics, planning some basic UML -->
 
 <h3> Week 10 - Game Jam </h3>
