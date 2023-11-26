@@ -39,7 +39,7 @@ Note that the topics listed in this schedule are tentative, and we may move or r
 <!-- a great issue with weird sexual systems https://royalsocietypublishing.org/toc/rstb/2016/371/1706 -->
 <!-- reading about prisoners dilemma, and meiosis overview -->
 
-### Day 2/3 - General Conflict Theory
+### Day 2-3 - General Conflict Theory
 * Date: T/R Nov 28/30
 * Readings: 
   * Agren JA. 2016. [Selfish genetic elements and the gene's-eye view of evolution.](https://academic.oup.com/cz/article/62/6/659/2745836) Current Zoology.
@@ -54,7 +54,7 @@ Note that the topics listed in this schedule are tentative, and we may move or r
   
 ## Week 2
 
-### Day 5/6 - Cytoplasmic Male Sterility
+### Day 5-6 - Cytoplasmic Male Sterility
 * Date: M/T Dec 4/5
 * Readings: 
   * Milot E, et al. 2017 [Mother's curse neutralizes natural selection against a human genetic disease over three centuries.](https://doi.org/10.1038/s41559-017-0276-6) Nat Ecol Evol. 
@@ -76,18 +76,18 @@ Emmanuel Milot
   
 ## Week 3
 
-### Day 8 - B Chromosomes
+### Day 9 - B Chromosomes
 * Date: M Dec 11
 * Readings: 
   * Benetta ED, et al. 2019. [Sequence Expression of Supernumerary B Chromosomes: Function or Fluff?](https://doi.org/10.3390/genes10020123) Genes.
   * Benetta ED, et al. 2020. [Genome elimination mediated by gene expression from a selfish chromosome.](https://doi.org/10.1126/sciadv.aaz9808) Science Advances.
 
-### Day 9/10 - Segregation Distortion
+### Day 10-11 - Segregation Distortion
 * Date: T/R Dec 12/14
 * Readings: 
   * Verspoor RL, et al. 2020. [Selfish genetic elements and male fertility.](https://doi.org/10.1098/rstb.2020.0067) Phil Trans B. 
 
-### Day 11 - Gene's Eye View of Evolution
+### Day 12 - Gene's Eye View of Evolution
 * Date: F Dec 15
 * Readings: 
   * Note: this chapter is much more dense than the others, many ideas are presented that may require some review in other sources to make sense. I would allocate at least 2x the amount of time the other readings took for this one.
@@ -95,7 +95,7 @@ Emmanuel Milot
  
 ## Week 4
 
-### Day 12-13 - Transposable Elements - Animals
+### Day 13-14 - Transposable Elements - Animals
 * Date: M/T Dec 18/19
 * Note: the numbers in brackets indicate which day the readings are associated with.
 * Readings: 
@@ -105,14 +105,15 @@ Emmanuel Milot
   * [13] Hill T, et al. 2016 [Hybrid Dysgenesis in Drosophila simulans Associated with a Rapid Invasion of the P-Element.](https://doi.org/10.1371/journal.pgen.1005920) PLoS Genetics.
   <!-- alternative: https://doi.org/10.1073/pnas.0705238104-->
 
-### Day 14 - Gene's Eye View of Evolution
+### Day 15 - Gene's Eye View of Evolution
 * Date: R Dec 21
 * Readings: 
   * You may want to read this review of Inclusive Fitness theory as background before starting the book. As a bonus the arguments by West and Gardner in this article are echoed in how Ågren frames the debate around this topic. 
+  
   West S & Gardner A. 2013. [Adaptation and Inclusive Fitness](https://doi.org/10.1016/j.cub.2013.05.031) Curr Biol.
   * 📖 [GEVE](#texts) Chapter 4 (~35 pages)
   
-### Day 15 - Canceled Class or Discussion of Classic Papers
+### Day 16 - Canceled Class or Discussion of Classic Papers
 * Date: F Dec 22
 * Tentatively we won't have class the last day before break. If anyone wants to we can pick a few classic papers referenced by Ågren and read or talk about them together.
 * ❗**Due: 🎲 Report your [Final Project](FinalProject) Teams to Robert via email Friday 5pm**
@@ -123,7 +124,7 @@ Emmanuel Milot
 
 ## Week 5
 
-### Day 16-17 - Transposable Elements - Plants
+### Day 17-18 - Transposable Elements - Plants
 * Date: M/T Jan 8/9
 * Bonus stuff: Github tutorial on Tuesday
 
@@ -136,13 +137,13 @@ Emmanuel Milot
   * [17] Kim NS. 2017. [The genomes and transposable elements in plants: are they friends or foes?](https://doi.org/10.1007/s13258-017-0522-y) Genes & Genomics.
   * [17] Staton SE, et al. 2012. [The sunflower (Helianthus annuus L.) genome reflects a recent history of biased accumulation of transposable elements.](https://doi.org/10.1111/j.1365-313X.2012.05072.x) The Plant Journal.
 
-### Day 18 - Imprinting
+### Day 19 - Imprinting
 * Date: R Jan 11
 * Readings: 
   * Haig D. 2000. [The Kinship Theory of Genomic Imprinting.](https://doi.org/10.1146/annurev.ecolsys.31.1.9) AREES.
   * Ohlsson R, et al. 1993. [IGF2 is parentally imprinted during human embryogenesis and in the Beckwith-Wiedemann syndrome.](https://doi.org/10.1038/ng0593-94) Nature Genetics.
 
-### Day 19 - Gene's Eye View of Evolution
+### Day 20 - Gene's Eye View of Evolution
 * Date: F Jal 12
 * Readings: 
   * 📖 [GEVE](#texts) Chapter 5 + Conclusion (~45 pages)
@@ -150,23 +151,23 @@ Emmanuel Milot
 
 ## Week 6
 
-### Day 20 - Predicting Conflict
+### Day 21 - Predicting Conflict
 * Date: M Jan 15
 * Readings: 
   * Brandvain Y & Haig D. 2005. [Divergent mating systems and parental conflict as a barrier to hybridization in flowering plants.](https://doi.org/10.1086/432036) Am. Nat. 
   * Scott TW & West SA. 2019 [Adaptation is maintained by the parliament of genes.](https://doi.org/10.1038/s41467-019-13169-3) Nature Comm.
 * Robert will email out the schedule for the analysis presentations by Friday.
 
-### Day 21 - Science Communication Workshop I
+### Day 22 - Science Communication Workshop I
 * Date: T Jan 16
 * We'll have a conversation with [Dr. Jennifer Carpenter](http://www.jennycarpenter.com/), a science journalist and educator based at the University of Toronto. Dr. Carpenter will discuss some approaches to making science writing approachable.
 * Come ready with questions about science outreach, communication, and possibly alternative careers in science.
 
-### Day 22 - Project Meetings
+### Day 23 - Project Meetings
 * Date: R Jan 18
 * You will have 15 minute group meetings with Robert in the classroom about your final project.
 
-### Day 23 - Project Time
+### Day 24 - Project Time
 * Date: F Jan 19
 * Time to work on your project with your team. No need to be in the classroom.
 <!-- this could be Arvid day, if we need to move it -->
@@ -174,41 +175,41 @@ Emmanuel Milot
 
 ## Week 7
 
-### Day 24 - Project Time - TBD
+### Day 25 - Project Time - TBD
 * Date: M Jan 22
 * ❗ **Due: Sign up for paper presentations in week 8 outside Robert's office.**
 
-### Day 25 - TBD
+### Day 26 - TBD
 * Date: T Jan 23
 * Dr. Carpenter will be back to review the introductions and instructions for your game. Have an updated pdf of your instructions uploaded to your github repository.
 
-### Day 26 - TBD
+### Day 27 - TBD
 * Date: T Jan 25
 * ❗ **Due: Have Robert sign off on your Week 8 presentation paper during class.**
 
-### Day 27 - Seminar Speaker
+### Day 28 - Seminar Speaker
 * Date: F Jan 26
 * We'll have a talk by [Dr. Arvid Agren](https://arvidagren.com/), the author of GEVE. Come ready to ask questions about the book, genetic conflict, the history of science, and anything else from the course!
 * ❗ **Due: 🎲 [M2](M2) 5pm**
 
 ## Week 8
 
-### Day 28-31 - Modern Research in Genetic Conflict
+### Day 29-32 - Modern Research in Genetic Conflict
 * Date: M-F Jan 29-Feb 2
 * You will pick a paper published in the last 10 years about a genetic conflict system. You will give a 15 minute presentation on this paper. Your presentation must follow the [Assertion-Evidence](https://www.assertion-evidence.com/templates.html) slide design for any slides you use.
 * ❗ **Due: 🎲 [M3](M3) 5pm Friday**
 
 ## Week 9
 
-### Day 31 - TBD
+### Day 33 - TBD
 * Date: M Feb 5
 * Buffer time. We'll fill this with a topic once we see how the schedule has gone.
 
-### Day 32 - Science Communication Workshop II
+### Day 34 - Science Communication Workshop II
 * Date: T Feb 6
 * Dr. Carpenter will be back to review the introductions and instructions for your game and give feedback for improving the communication. Have an updated pdf of your instructions uploaded to your github repository.
 
-### Day 33/34 - Analysis Presentations
+### Day 35-36 - ❗Analysis Presentations
 * Date: May 13/18
 * See the [Final Project](FinalProject) page for details. 
 * ❗ **Due: 🎲 [Video Introduction](FinalProject) to the Game. 5pm Friday** Post a link to the video in the instruction manual for your game. Make sure this us updated on github.
@@ -216,7 +217,7 @@ Emmanuel Milot
 
 ## Week 10
 
-### Day 35-38 TBD 
+### Day 37-40 TBD 
 * Date: M Feb 5
 * Buffer time. We'll fill this with a topics once we see how the schedule has gone.
 
