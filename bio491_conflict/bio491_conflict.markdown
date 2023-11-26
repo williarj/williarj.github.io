@@ -111,7 +111,6 @@ Emmanuel Milot
   * You may want to read this review of Inclusive Fitness theory as background before starting the book. As a bonus the arguments by West and Gardner in this article are echoed in how Ågren frames the debate around this topic. 
   West S & Gardner A. 2013. [Adaptation and Inclusive Fitness](https://doi.org/10.1016/j.cub.2013.05.031) Curr Biol.
   * 📖 [GEVE](#texts) Chapter 4 (~35 pages)
-  TODO check the formatting here
   
 ### Day 15 - Canceled Class or Discussion of Classic Papers
 * Date: F Dec 22
@@ -127,9 +126,10 @@ Emmanuel Milot
 ### Day 16-17 - Transposable Elements - Plants
 * Date: M/T Jan 8/9
 * Bonus stuff: Github tutorial on Tuesday
+
   For more detail on git and it's place in science you may want to save this paper for your future perusal:
+  
   Bischak, et. al. 2016. [A Quick Introduction to Version Control with Git and Github.](https://doi.org/10.1371/journal.pcbi.1004668) PLoS Comp Biol.
-  TODO Check the formatting here
 * Readings: 
   * [16] Le QH, et al. 2000. [Transposon diversity in Arabidopsis thaliana.](https://doi.org/10.1073/pnas.97.13.7376) PNAS.
   * [16] Li ZW, et al. 2018. [Transposable Elements Contribute to the Adaptation of Arabidopsis thaliana.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6117151/) Genome Biol. Evolution.
@@ -174,7 +174,7 @@ Emmanuel Milot
 
 ## Week 7
 
-### Day 24 - Project Time? TODO
+### Day 24 - Project Time - TBD
 * Date: M Jan 22
 * ❗ **Due: Sign up for paper presentations in week 8 outside Robert's office.**
 
@@ -197,7 +197,6 @@ Emmanuel Milot
 * Date: M-F Jan 29-Feb 2
 * You will pick a paper published in the last 10 years about a genetic conflict system. You will give a 15 minute presentation on this paper. Your presentation must follow the [Assertion-Evidence](https://www.assertion-evidence.com/templates.html) slide design for any slides you use.
 * ❗ **Due: 🎲 [M3](M3) 5pm Friday**
-TODO Due dates update
 
 ## Week 9
 
