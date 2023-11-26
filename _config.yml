@@ -3,3 +3,4 @@ title: Robert Williamson
 description: 
 layouts_dir: .internal/layouts
 include: ['.internal']
+github: [metadata]

@@ -14,3 +14,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # note that if you try to explicitly install jekyll, bad dependencies happen
 gem "github-pages", group: :jekyll_plugins
+
+gem "jekyll", "~> 3.9"
+
+gem "webrick", "~> 1.8"
