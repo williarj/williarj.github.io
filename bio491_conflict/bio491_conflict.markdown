@@ -67,7 +67,7 @@ Emmanuel Milot
 * Readings: 
   * Lindholm AK, et al. 2016. [The Ecology and Evolutionary Dynamics of Meiotic Drive.](https://doi.org/10.1016/j.tree.2016.02.001) TREE.
   * Esvelt KM & Gemmell NJ. 2017. [Conservation demands safe gene drive.](https://doi.org/10.1371/journal.pbio.2003850) PLoS Biol. 
- * ❗Due at 5pm [WA](WA) - Note that these are due every Tuesday at 5pm. They won't be marked on future weeks in this schedule.
+ * ❗Due at 5pm [WA](/BIO491_conflict/WA) - Note that these are due every Tuesday at 5pm. They won't be marked on future weeks in this schedule.
 
 ### Day 8 - Gene's Eye View of Evolution
 * Date: F Dec 8
@@ -116,7 +116,7 @@ Emmanuel Milot
 ### Day 16 - Canceled Class or Discussion of Classic Papers
 * Date: F Dec 22
 * Tentatively we won't have class the last day before break. If anyone wants to we can pick a few classic papers referenced by Ågren and read or talk about them together.
-* ❗**Due: 🎲 Report your [Final Project](FinalProject) Teams to Robert via email Friday 5pm**
+* ❗**Due: 🎲 Report your [Final Project](/BIO491_conflict/FinalProject) Teams to Robert via email Friday 5pm**
 
 ---
 # ✈️ ❄️ 🧘 🛌 Winter Break 🛌 🧘 ❄️ ✈️
@@ -171,7 +171,7 @@ Emmanuel Milot
 * Date: F Jan 19
 * Time to work on your project with your team. No need to be in the classroom.
 <!-- this could be Arvid day, if we need to move it -->
-* ❗ **Due: 🎲 [M1](M1) 5pm**
+* ❗ **Due: 🎲 [M1](/BIO491_conflict/M1) 5pm**
 
 ## Week 7
 
@@ -190,14 +190,14 @@ Emmanuel Milot
 ### Day 28 - Seminar Speaker
 * Date: F Jan 26
 * We'll have a talk by [Dr. Arvid Agren](https://arvidagren.com/), the author of GEVE. Come ready to ask questions about the book, genetic conflict, the history of science, and anything else from the course!
-* ❗ **Due: 🎲 [M2](M2) 5pm**
+* ❗ **Due: 🎲 [M2](/BIO491_conflict/M2) 5pm**
 
 ## Week 8
 
 ### Day 29-32 - Modern Research in Genetic Conflict
 * Date: M-F Jan 29-Feb 2
 * You will pick a paper published in the last 10 years about a genetic conflict system. You will give a 15 minute presentation on this paper. Your presentation must follow the [Assertion-Evidence](https://www.assertion-evidence.com/templates.html) slide design for any slides you use.
-* ❗ **Due: 🎲 [M3](M3) 5pm Friday**
+* ❗ **Due: 🎲 [M3](/BIO491_conflict/M3) 5pm Friday**
 
 ## Week 9
 
@@ -211,8 +211,8 @@ Emmanuel Milot
 
 ### Day 35-36 - ❗Analysis Presentations
 * Date: May 13/18
-* See the [Final Project](FinalProject) page for details. 
-* ❗ **Due: 🎲 [Video Introduction](FinalProject) to the Game. 5pm Friday** Post a link to the video in the instruction manual for your game. Make sure this us updated on github.
+* See the [Final Project](/BIO491_conflict/FinalProject) page for details. 
+* ❗ **Due: 🎲 [Video Introduction](/BIO491_conflict/FinalProject) to the Game. 5pm Friday** Post a link to the video in the instruction manual for your game. Make sure this us updated on github.
 * Note: you are expected to watch the videos for all the other teams before Finals Week, Robert will email all the links out to class.
 
 ## Week 10
@@ -283,13 +283,13 @@ You are expected to participate in discussions, activities, and some group work 
 
 #### Overall Grading
 
-[Project](FinalProject) 35%
+[Project](/BIO491_conflict/FinalProject) 35%
 
 In-class participation 15%
 
 Paper Presentation 10%
 
-[Weekly analyses](WA) 40%
+[Weekly analyses](/BIO491_conflict/WA) 40%
 
 ## Course Administrative Info
 

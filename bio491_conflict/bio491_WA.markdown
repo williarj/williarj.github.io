@@ -48,5 +48,5 @@ I will distribute at least 12 weekly analysis questions (at least one per week) 
 
 * Is professional in the communication approach, including grammatical and language choices.
 
-* Follows the course submission guidelines. [see the Course Administrative Info section below]
+* Follows the course submission guidelines. [see the Course Administrative Info section in the syllabus](/BIO491_conflict#formatting-guidelines)
 
