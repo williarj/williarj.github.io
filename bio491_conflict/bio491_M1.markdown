@@ -8,7 +8,7 @@ permalink: /BIO491_conflict/M1
 For this milestone you should get familiar with GitHub and decide the system you will be basing your game on. 
 
 <h2> Git </h2>
-1. [Go to this link to set up your GitHub repository.](https://classroom.github.com/g/lYVHKPZM) If you are the first person on your team to do this you will need to add your team name, otherwise you will be able to select it from a list. 
+1. [Go to this link to set up your GitHub repository.](https://classroom.github.com/a/SvMBOIzP) If you are the first person on your team to do this you will need to add your team name, otherwise you will be able to select it from a list. 
 2. You should look in all the folders in this repository and read the README in each one (GitHub helpfully displays these at the bottom of the page). 
 3. [You can install git for windows at this link](https://gitforwindows.org/) or you can do everything through the web client. I'm going to assume the latter, but feel free to ask me if you want a crash course in git.
 4. Familiarize yourself with adding files using the "Add file" button, for this class you will likely only ever need the "upload files" option. Drag a file you want to add (or update) into the window, and type a description of your update in the "Commit changes" box at the bottom of the screen. 
