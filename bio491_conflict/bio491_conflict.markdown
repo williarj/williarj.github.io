@@ -188,7 +188,7 @@ this topic got killed this quarter
 
 ### Day 29-32 - Modern Research in Genetic Conflict
 * Date: M-F Jan 29-Feb 2
-* You will pick a paper published in the last 10 years about a genetic conflict system. You will give a 15 minute presentation on this paper. Your presentation must follow the [Assertion-Evidence](https://www.assertion-evidence.com/templates.html) slide design for any slides you use. A rubric to help guide your planing [can be found here](/BIO491_conflict/docs/presentation_rubric.pdf).
+* You will pick a paper published in the last 10 years about a genetic conflict system. You will give a 15 minute presentation on this paper. Your presentation must follow the [Assertion-Evidence](https://www.assertion-evidence.com/templates.html) slide design for any slides you use. A rubric to help guide your planing [can be found here](/bio491_conflict/docs/presentation_rubric.pdf).
 * ❗ **Due: 🎲 "Game summary" and "tag line" due via email to Dr Carpenter and Dr Williamson, 5pm Jan 30th**
 * ❗ **Due: 🎲 [M3](/BIO491_conflict/M3) 5pm Friday**
 
@@ -210,7 +210,7 @@ this topic got killed this quarter
 * Date: May 13/18
 * See the [Final Project](/BIO491_conflict/FinalProject) page for details. 
 * ❗ **Due: 🎲 [Video Introduction](/BIO491_conflict/FinalProject) to the Game. 5pm Friday** Post a link to the video in the instruction manual for your game. Make sure this is updated on github.
-* Note: you are expected to watch the videos for all the other teams before Finals Week, Robert will email all the links out to class. Use [the same rubric](/BIO491_conflict/docs/presentation_rubric.pdf) from your modern research presentation to craft your materials.
+* Note: you are expected to watch the videos for all the other teams before Finals Week, Robert will email all the links out to class. Use [the same rubric](/bio491_conflict/docs/presentation_rubric.pdf) from your modern research presentation to craft your materials.
 
 ## Week 10
 
@@ -287,7 +287,7 @@ In-class participation 15%
 [Paper Presentation](BIO491_conflict/docs/presentation_rubric.pdf) 10%
 <!-- need to convert this to text and flesh out the instructions more -->
 
-[Weekly analyses](/BIO491_conflict/WA) 40%
+[Weekly analyses](/bio491_conflict/WA) 40%
 
 ## Course Administrative Info
 
