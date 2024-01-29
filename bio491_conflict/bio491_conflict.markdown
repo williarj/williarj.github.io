@@ -284,7 +284,7 @@ You are expected to participate in discussions, activities, and some group work 
 
 In-class participation 15%
 
-[Paper Presentation](/BIO491_conflict/docs/presentation_rubric.pdf) 10%
+[Paper Presentation](BIO491_conflict/docs/presentation_rubric.pdf) 10%
 <!-- need to convert this to text and flesh out the instructions more -->
 
 [Weekly analyses](/BIO491_conflict/WA) 40%
