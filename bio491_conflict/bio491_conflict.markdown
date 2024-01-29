@@ -36,15 +36,16 @@ Note that the topics listed in this schedule are tentative, and we may move or r
 * Readings: 
   * Nothing yet!
   * Bonus background reading on meiosis: Lenormand T, et al. 2016. [Evolutionary mysteries in meiosis.](https://dx.doi.org/10.1098%2Frstb.2016.0001) Phil Trans B.
-<!-- a great issue with weird sexual systems https://royalsocietypublishing.org/toc/rstb/2016/371/1706 -->
-<!-- reading about prisoners dilemma, and meiosis overview -->
 
-### Day 2-3 - General Conflict Theory
+
+### Day 2-3 - General Conflict Theory & Prisoner's Dilemma
 * Date: T/R Nov 28/30
 * Readings: 
   * Agren JA. 2016. [Selfish genetic elements and the gene's-eye view of evolution.](https://academic.oup.com/cz/article/62/6/659/2745836) Current Zoology.
   * Werren JH. 2011. [Selfish genetic elements, genetic conflict, and evolutionary innovation.](https://doi.org/10.1073/pnas.1102343108) PNAS 
-
+<!-- a great issue with weird sexual systems https://royalsocietypublishing.org/toc/rstb/2016/371/1706 -->
+<!-- really talked about weird meiosis on this day, and did the PD activity -->
+<!-- reading about prisoners dilemma, and meiosis overview -->
 
 ### Day 4 - Gene's Eye View of Evolution
 * Date: F Dec 1
@@ -54,20 +55,14 @@ Note that the topics listed in this schedule are tentative, and we may move or r
   
 ## Week 2
 
-### Day 5-6 - Cytoplasmic Male Sterility
-* Date: M/T Dec 4/5
+### Day 5-7 - Cytoplasmic Male Sterility
+* Date: M/T Dec 4-7
 * Readings: 
   * Milot E, et al. 2017 [Mother's curse neutralizes natural selection against a human genetic disease over three centuries.](https://doi.org/10.1038/s41559-017-0276-6) Nat Ecol Evol. 
 Emmanuel Milot 
   * Case AL, et al. 2016. [Selfish evolution of cytonuclear hybrid incompatibility in Mimulus.](https://doi.org/10.1098/rspb.2016.1493) Proc B.
   <!-- bonus: Fishman and Willis. Evolution. 2006. https://doi.org/10.1111/j.0014-3820.2006.tb01216.x -->
-
-### Day 7 - Meiotic Drive 
-* Date: R/F Dec 7/8
-* Readings: 
-  * Lindholm AK, et al. 2016. [The Ecology and Evolutionary Dynamics of Meiotic Drive.](https://doi.org/10.1016/j.tree.2016.02.001) TREE.
-  * Esvelt KM & Gemmell NJ. 2017. [Conservation demands safe gene drive.](https://doi.org/10.1371/journal.pbio.2003850) PLoS Biol. 
- * ❗Due at 5pm [WA](/BIO491_conflict/WA) - Note that these are due every Tuesday at 5pm. They won't be marked on future weeks in this schedule.
+ * ❗Due Tuesday at 5pm [WA](/BIO491_conflict/WA) - Note that these are due every Tuesday at 5pm. They won't be marked on future weeks in this schedule.
 
 ### Day 8 - Gene's Eye View of Evolution
 * Date: F Dec 8
@@ -76,16 +71,21 @@ Emmanuel Milot
   
 ## Week 3
 
+### Day 9-11 - Meiotic Drive & Segregation Distortion
+* Date: R/F Dec 11-14
+* Readings: 
+  * Lindholm AK, et al. 2016. [The Ecology and Evolutionary Dynamics of Meiotic Drive.](https://doi.org/10.1016/j.tree.2016.02.001) TREE.
+  * Esvelt KM & Gemmell NJ. 2017. [Conservation demands safe gene drive.](https://doi.org/10.1371/journal.pbio.2003850) PLoS Biol. 
+  * Verspoor RL, et al. 2020. [Selfish genetic elements and male fertility.](https://doi.org/10.1098/rstb.2020.0067) Phil Trans B. 
+
+<!--
+this topic got killed this quarter
 ### Day 9 - B Chromosomes
 * Date: M Dec 11
 * Readings: 
   * Benetta ED, et al. 2019. [Sequence Expression of Supernumerary B Chromosomes: Function or Fluff?](https://doi.org/10.3390/genes10020123) Genes.
   * Benetta ED, et al. 2020. [Genome elimination mediated by gene expression from a selfish chromosome.](https://doi.org/10.1126/sciadv.aaz9808) Science Advances.
-
-### Day 10-11 - Segregation Distortion
-* Date: T/R Dec 12/14
-* Readings: 
-  * Verspoor RL, et al. 2020. [Selfish genetic elements and male fertility.](https://doi.org/10.1098/rstb.2020.0067) Phil Trans B. 
+-->
 
 ### Day 12 - Gene's Eye View of Evolution
 * Date: F Dec 15
@@ -95,7 +95,7 @@ Emmanuel Milot
  
 ## Week 4
 
-### Day 13-14 - Transposable Elements - Animals
+### Day 13-14 - Transposable Elements - Classes and Types
 * Date: M/T Dec 18/19
 * Note: the numbers in brackets indicate which day the readings are associated with.
 * Readings: 
@@ -124,8 +124,8 @@ Emmanuel Milot
 
 ## Week 5
 
-### Day 17-18 - Transposable Elements - Plants
-* Date: M/T Jan 8/9
+### Day 17-19 - Transposable Elements - Costs and Consequences
+* Date: M/T Jan 8-11
 * Bonus stuff: Github tutorial on Tuesday
 
   For more detail on git and it's place in science you may want to save this paper for your future perusal:
@@ -137,12 +137,6 @@ Emmanuel Milot
   * [17] Kim NS. 2017. [The genomes and transposable elements in plants: are they friends or foes?](https://doi.org/10.1007/s13258-017-0522-y) Genes & Genomics.
   * [17] Staton SE, et al. 2012. [The sunflower (Helianthus annuus L.) genome reflects a recent history of biased accumulation of transposable elements.](https://doi.org/10.1111/j.1365-313X.2012.05072.x) The Plant Journal.
 
-### Day 19 - Imprinting
-* Date: R Jan 11
-* Readings: 
-  * Haig D. 2000. [The Kinship Theory of Genomic Imprinting.](https://doi.org/10.1146/annurev.ecolsys.31.1.9) AREES.
-  * Ohlsson R, et al. 1993. [IGF2 is parentally imprinted during human embryogenesis and in the Beckwith-Wiedemann syndrome.](https://doi.org/10.1038/ng0593-94) Nature Genetics.
-
 ### Day 20 - Gene's Eye View of Evolution
 * Date: F Jal 12
 * Readings: 
@@ -151,12 +145,10 @@ Emmanuel Milot
 
 ## Week 6
 
-### Day 21 - Predicting Conflict
+### Day 21 - Transposable Elements Wrap Up
 * Date: M Jan 15
 * Readings: 
-  * Brandvain Y & Haig D. 2005. [Divergent mating systems and parental conflict as a barrier to hybridization in flowering plants.](https://doi.org/10.1086/432036) Am. Nat. 
-  * Scott TW & West SA. 2019 [Adaptation is maintained by the parliament of genes.](https://doi.org/10.1038/s41467-019-13169-3) Nature Comm.
-* Robert will email out the schedule for the analysis presentations by Friday.
+  * NA
 
 ### Day 22 - Science Communication Workshop I
 * Date: T Jan 16
@@ -170,22 +162,22 @@ Emmanuel Milot
 ### Day 24 - Project Time
 * Date: F Jan 19
 * Time to work on your project with your team. No need to be in the classroom.
-<!-- this could be Arvid day, if we need to move it -->
 * ❗ **Due: 🎲 [M1](/BIO491_conflict/M1) 5pm**
 
 ## Week 7
 
-### Day 25 - Project Time - TBD
+### Day 25 - Sexual Conflict - Imprinted Genes
 * Date: M Jan 22
-* ❗ **Due: Sign up for paper presentations in week 8 outside Robert's office.**
+* Readings: 
+  * Haig D. 2000. [The Kinship Theory of Genomic Imprinting.](https://doi.org/10.1146/annurev.ecolsys.31.1.9) AREES.
+  * Ohlsson R, et al. 1993. [IGF2 is parentally imprinted during human embryogenesis and in the Beckwith-Wiedemann syndrome.](https://doi.org/10.1038/ng0593-94) Nature Genetics.
+ * ❗ **Due: Sign up for the Week 8 paper presentations.**
 
-### Day 26 - TBD
-* Date: T Jan 23
-* Dr. Carpenter will be back to review the introductions and instructions for your game. Have an updated pdf of your instructions uploaded to your github repository.
-
-### Day 27 - TBD
-* Date: T Jan 25
-* ❗ **Due: Have Robert sign off on your Week 8 presentation paper during class.**
+### Day 26/27 - Sexual Conflict - Sexually Antagonistic Selection
+* Date: M Jan 23-25
+* Readings: 
+  * NA
+* ❗ **Due: Have Robert sign off on your Week 8 presentation paper during Thursday's class.**
 
 ### Day 28 - Seminar Speaker
 * Date: F Jan 26
@@ -196,24 +188,29 @@ Emmanuel Milot
 
 ### Day 29-32 - Modern Research in Genetic Conflict
 * Date: M-F Jan 29-Feb 2
-* You will pick a paper published in the last 10 years about a genetic conflict system. You will give a 15 minute presentation on this paper. Your presentation must follow the [Assertion-Evidence](https://www.assertion-evidence.com/templates.html) slide design for any slides you use.
+* You will pick a paper published in the last 10 years about a genetic conflict system. You will give a 15 minute presentation on this paper. Your presentation must follow the [Assertion-Evidence](https://www.assertion-evidence.com/templates.html) slide design for any slides you use. A rubric to help guide your planing [can be found here](/BIO491_conflict/docs/presentation_rubric.pdf).
+* ❗ **Due: 🎲 "Game summary" and "tag line" due via email to Dr Carpenter and Dr Williamson, 5pm Jan 30th**
 * ❗ **Due: 🎲 [M3](/BIO491_conflict/M3) 5pm Friday**
 
 ## Week 9
 
-### Day 33 - TBD
+### Day 33 - Predicting Conflict
 * Date: M Feb 5
-* Buffer time. We'll fill this with a topic once we see how the schedule has gone.
+* Readings: 
+  * Brandvain Y & Haig D. 2005. [Divergent mating systems and parental conflict as a barrier to hybridization in flowering plants.](https://doi.org/10.1086/432036) Am. Nat. 
+  * Scott TW & West SA. 2019 [Adaptation is maintained by the parliament of genes.](https://doi.org/10.1038/s41467-019-13169-3) Nature Comm.
+* Robert will email out the schedule for the analysis presentations by Friday.
 
 ### Day 34 - Science Communication Workshop II
 * Date: T Feb 6
 * Dr. Carpenter will be back to review the introductions and instructions for your game and give feedback for improving the communication. Have an updated pdf of your instructions uploaded to your github repository.
+* ❗ **Due: Sign up for an Analysis Presentation slot by class time.**
 
 ### Day 35-36 - ❗Analysis Presentations
 * Date: May 13/18
 * See the [Final Project](/BIO491_conflict/FinalProject) page for details. 
 * ❗ **Due: 🎲 [Video Introduction](/BIO491_conflict/FinalProject) to the Game. 5pm Friday** Post a link to the video in the instruction manual for your game. Make sure this us updated on github.
-* Note: you are expected to watch the videos for all the other teams before Finals Week, Robert will email all the links out to class.
+* Note: you are expected to watch the videos for all the other teams before Finals Week, Robert will email all the links out to class. Use [the same rubric](/BIO491_conflict/docs/presentation_rubric.pdf) from your modern research presentation to craft your materials.
 
 ## Week 10
 
@@ -223,9 +220,9 @@ Emmanuel Milot
 
 ## Finals Week
 
-### Final- Game Day
-* Date: TBD
-* We'll meet in the class room to play each others games and do peer evaluations. Feel free to invite friends who need a break from finals, expect other visitors who will test your game. These visitors should leave knowing more genetics than when they came into the room.
+### Final - Game Day
+* Date: Monday Feb 19 8 AM, M115
+* We'll meet to play each others games and do peer evaluations. Feel free to invite friends who need a break from finals, expect other visitors who will test your game. These visitors should leave knowing more genetics than when they came into the room.
 * ❗ **Due: Final versions of game documents including compiled final document.**
 
 <hr style="border:2px solid gray">
