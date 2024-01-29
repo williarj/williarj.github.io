@@ -209,7 +209,7 @@ this topic got killed this quarter
 ### Day 35-36 - ❗Analysis Presentations
 * Date: May 13/18
 * See the [Final Project](/BIO491_conflict/FinalProject) page for details. 
-* ❗ **Due: 🎲 [Video Introduction](/BIO491_conflict/FinalProject) to the Game. 5pm Friday** Post a link to the video in the instruction manual for your game. Make sure this us updated on github.
+* ❗ **Due: 🎲 [Video Introduction](/BIO491_conflict/FinalProject) to the Game. 5pm Friday** Post a link to the video in the instruction manual for your game. Make sure this is updated on github.
 * Note: you are expected to watch the videos for all the other teams before Finals Week, Robert will email all the links out to class. Use [the same rubric](/BIO491_conflict/docs/presentation_rubric.pdf) from your modern research presentation to craft your materials.
 
 ## Week 10
@@ -221,7 +221,7 @@ this topic got killed this quarter
 ## Finals Week
 
 ### Final - Game Day
-* Date: Monday Feb 19 8 AM, M115
+* Date: Monday Feb 19, 8 AM, M115
 * We'll meet to play each others games and do peer evaluations. Feel free to invite friends who need a break from finals, expect other visitors who will test your game. These visitors should leave knowing more genetics than when they came into the room.
 * ❗ **Due: Final versions of game documents including compiled final document.**
 
@@ -284,7 +284,8 @@ You are expected to participate in discussions, activities, and some group work 
 
 In-class participation 15%
 
-Paper Presentation 10%
+[Paper Presentation](/BIO491_conflict/docs/presentation_rubric.pdf) 10%
+<!-- need to convert this to text and flesh out the instructions more -->
 
 [Weekly analyses](/BIO491_conflict/WA) 40%
 
