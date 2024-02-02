@@ -209,7 +209,7 @@ this topic got killed this quarter
 ### Day 35-36 - ❗Analysis Presentations
 * Date: R/F Feb 8/9
 * See the [Final Project](/BIO491_conflict/FinalProject) page for details. 
-* ❗ **Due: 🎲 [Video Introduction](/BIO491_conflict/FinalProject) to the Game. 5pm Friday** Post a link to the video in the instruction manual for your game. Make sure this is updated on github.
+* ❗ **Due: 🎲 [Video Introduction](/BIO491_conflict/ProjectVideo) to the Game. 5pm Friday** Post a link to the video in the instruction manual for your game. Make sure this is updated on github.
 * Note: you are expected to watch the videos for all the other teams before Finals Week, Robert will email all the links out to class. Use [the same rubric](/bio491_conflict/docs/presentation_rubric.pdf) from your modern research presentation to craft your materials.
 
 ## Week 10

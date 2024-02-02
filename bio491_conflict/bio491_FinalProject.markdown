@@ -36,5 +36,8 @@ This presentation does not need to explain every rule of the game or how to play
 ## Video Introduction (10%)
 You will need to record a video introduction to your game. These should be no longer than 15 minutes, they should explain the core rules of the game, and touch on the scientific relevance of the dynamics demonstrated by the game. As an example of one such video, [here is a brief review of Peptide](https://youtu.be/p_K4pRfChfc?t=63). This video focuses more on the mechanics of the game than the science, but is meant as a general guide.
 
+See the [Video Instruction Page here](ProjectVideo) for more details on turning this in.
+
+
 ## Player Reviews (10%)
 During Finals Week we will have a play session of the games in our classroom. You will be expected to watch the videos of all the other groups games and will play at least 2 of these games. You will write a review of the games you play. Your review will reflect both on the game itself and its ability to communicate scientific ideas to players. Your final grade on the project will depend on how your peers rate your game. In order to get these points you need to submit valid reviews of at least 2 other games.
