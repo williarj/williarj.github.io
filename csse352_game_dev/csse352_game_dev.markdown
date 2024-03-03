@@ -66,14 +66,13 @@ You are expected to complete readings by Friday of each week. Reading chapters b
 
 <h3> Week 6 - Midterm Project</h3>
 * Readings: Ch 11, Ch 13
-* Due: Friday - Game Project Demonstrations
+* Due: Friday - Midterm Game Project Demonstrations
 <!-- * Assigned: Friday - Cabbage sounds -->
 <!-- Deploying code, saving data, add sounds to cabbage world, have them upload to itch.io  -->
 
-<h3> Week 7 - Sound </h3>
+<h3> Week 7 - Sound and Modding </h3>
 * Readings: Ch 6
 <!-- * Due: Friday - Messenger System -->
-* Assigned: Friday - Midterm Game Project
 <!-- Write a modding system or a set of mods? Write a modding system to read in a bunch of level files, add levels to cabbage world? Add new entities to cabbage world via mod? Steam mod workshop integration -- future iteration? -->
 
 <h3> Week 8 - More Game Features and Deploying </h3>
