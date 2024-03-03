@@ -28,4 +28,4 @@ This milestone requires some coordination and planning, don't put this off until
 5. Write a brief description of how the playtest caused you to modify the game.
 
 <h2>Turning it in</h2>
-You should submit **one** pdf to the "milestones" folder that contains all the info above (instructions, science-reflection essay, and playteste-reflection). 
+You should submit **one** pdf to the "milestones" folder that contains all the info above (instructions, science-reflection essay, and playtest-reflection). 

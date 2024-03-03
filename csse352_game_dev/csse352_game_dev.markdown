@@ -56,25 +56,27 @@ You are expected to complete readings by Friday of each week. Reading chapters b
 <h3> Week 5 - Sprites and Animations </h3>
 * Readings: Ch 9
 * Patterns: State Pattern
-* Pixel Art crash course
+* Friday (optional): Pixel Art crash course
 * Due: Friday - Cabbage Tutorial
 <!-- * Due: Friday - Particle System -->
 <!-- * Assigned: Friday - Messenger System -->
 <!-- Write a Messenger System, have cabbage AIs communicate with game managers -->
 
-<h3> Week 6 - Sound </h3>
+<h3> Spring Break </h3>
+
+<h3> Week 6 - Midterm Project</h3>
+* Readings: Ch 11, Ch 13
+* Due: Friday - Game Project Demonstrations
+<!-- * Assigned: Friday - Cabbage sounds -->
+<!-- Deploying code, saving data, add sounds to cabbage world, have them upload to itch.io  -->
+
+<h3> Week 7 - Sound </h3>
 * Readings: Ch 6
 <!-- * Due: Friday - Messenger System -->
 * Assigned: Friday - Midterm Game Project
 <!-- Write a modding system or a set of mods? Write a modding system to read in a bunch of level files, add levels to cabbage world? Add new entities to cabbage world via mod? Steam mod workshop integration -- future iteration? -->
 
-<h3> Week 7 - Midterm Project</h3>
-* Readings: Ch 11, Ch 13
-* Due: Friday - Game Project Demo
-<!-- * Assigned: Friday - Cabbage sounds -->
-<!-- Deploying code, saving data, add sounds to cabbage world, have them upload to itch.io  -->
-
-<h3> Week 8 - More Game Features </h3>
+<h3> Week 8 - More Game Features and Deploying </h3>
 * Readings: Ch 10
 * Patters: Visitor
 <!-- * Due: Friday - Cabbage sounds -->
@@ -82,17 +84,23 @@ You are expected to complete readings by Friday of each week. Reading chapters b
 <!-- Networking, high scores for cabbage world, maybe multiplayer cabbages? -->
 <!-- power ups, save game, reading files, modding, procedural generation?, ScriptableObjects -->
 
-<h3> Week 9 - Put it together </h3>
+<h3> Weekend - Game Jam </h3>
+* Readings: NA
+* Due: Friday - Jam Entry
+* Notes: You will make a team repo for your code. You can name your team anything, but your team name must start with the prefix `csse352-2223c-` (e.g. `csse352-2223c-roberts-awesome-team`). [This is the link to your Game Jam repo](COMING SOON)
+<!-- Game Jam -->
+
+<h3> Week 9 - Game Demos and Advanced topics </h3>
 * Readings: Ch 12
 * Assigned: Friday - Game Jam Begins
 <!-- * Due: Friday - Cabbage network -->
-<!-- plan a game together, build something as a class, vote on themes, other classes reflection, brainstorming, simplifying, focus, choosing mechanics, planning some basic UML -->
+<!-- demo games to each other and get feedback, procedural generation, basic networking -->
 
-<h3> Week 10 - Game Jam </h3>
+<h3> Week 10 - Advanced topics </h3>
 * Readings: NA
 * Due: Friday - Jam Entry
-* Notes: You will make a team repo for your code. You can name your team anything, but your team name must start with the prefix `csse352-2223c-` (e.g. `csse352-2223c-roberts-awesome-team`). [This is the link to your Game Jam repo](https://classroom.github.com/a/BCGotORz)
-<!-- Game Jam -->
+<!-- Add feature to games, build an autobattler with all the features -->
+<!-- basic Ai and have an "AI" off? -->
 
 <!--
 TOPICS THAT NEED TO EXIST:
