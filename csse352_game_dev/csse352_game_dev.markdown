@@ -86,19 +86,20 @@ You are expected to complete readings by Friday of each week. Reading chapters b
 
 <h3> Weekend - Game Jam </h3>
 * Readings: NA
-* Due: Friday - Jam Entry
+* Due: Monday - Jam Entry
 * Notes: You will make a team repo for your code. You can name your team anything, but your team name must start with the prefix `csse352-2223c-` (e.g. `csse352-2223c-roberts-awesome-team`). [This is the link to your Game Jam repo](COMING SOON)
 <!-- Game Jam -->
 
 <h3> Week 9 - Game Demos and Advanced topics </h3>
 * Readings: Ch 12
-* Assigned: Friday - Game Jam Begins
-<!-- * Due: Friday - Cabbage network -->
-<!-- demo games to each other and get feedback, procedural generation, basic networking -->
+* Assigned: SuperAutoProfs
+<!-- demo games to each other and get feedback, procedural generation, basic networking, SAP should include ScriptableObjects for generating
+the different characters, and networking to share battles, and record teams etc -->
 
 <h3> Week 10 - Advanced topics </h3>
 * Readings: NA
-* Due: Friday - Jam Entry
+* Due: Jam Entry Updates (Friday we will demo games to campus in the CS labs)
+* Due: Friday - SAP
 <!-- Add feature to games, build an autobattler with all the features -->
 <!-- basic Ai and have an "AI" off? -->
 
