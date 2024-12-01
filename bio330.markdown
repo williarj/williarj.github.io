@@ -26,6 +26,12 @@ You are assumed to have a working knowledge of basic genetics and phylogenetics 
 
 The textbook readings below are optional, but will help clarify and frame topics. The readings of primary source articles are required and expected to be done before they day of class they are associated with.
 
+Here are the times and rooms for each day of the week:
+
+Day 1 - Tuesday 1-2pm, J205
+Day 2 - Wednesday 1-2pm, J204
+Day 3 - Friday 1-3pm, O103
+
 Week 1
    * Day 1
       * Topic: History of Evolution
@@ -35,7 +41,7 @@ Week 1
       * Topic: Hardy-Weinberg Equilibrium
       * Reading: Ch 6.1
       * Due: Hypothesis comments, [Hardy (1908) *Science*](https://doi.org/10.1126/science.28.706.49)
-   * Day 3
+   * Day 3 (Recall day 3 is always a 2 hour session)
       * Topic: Measuring Variation - Lab 1
       * Reading: [Edwards. (2008). *Genetics*](https://www.genetics.org/content/179/3/1143)
       * Due: NA
@@ -79,6 +85,8 @@ Week 3
       * Reading: [Schoen & Schultz (2019). *AREES*](https://doi.org/10.1146/annurev-ecolsys-110218-024955)
       * Due: Lab 2
    
+
+ :snowflake: :snowflake: :snowflake: :snowflake: WINTER BREAK :snowflake: :snowflake: :snowflake: :snowflake:
 <!--
 * paper about the size of mutations, or frequency of them? or types?
 * paper about the highways and deer/coyotes etc
@@ -91,7 +99,6 @@ Week 4
       * Topic: Selection
       * Reading: Ch 6.2
       * Due: WA3
-   * BREAK
    * Day 2
       * Topic: Selection
       * Reading: Ch 6.3
@@ -177,7 +184,7 @@ Week 8
       * Reading: Ch 15
       * Due: Hypothesis comments, [Franks et al. (2007). *PNAS*](https://doi.org/10.1073/pnas.0608379104)
    * Day 3
-      * Topic: Designing experiments - Lab 8
+      * Topic: Designing experiments - Lab 8; "Growing as a Researcher" writing assignment
       * Reading: [Hendry et. al. (2018). *AREES*](https://doi.org/10.1146/annurev-ecolsys-110617-062358)
       * Due: Lab 7, RHITER article submission 
   
@@ -192,6 +199,12 @@ Week 8
    
   
 Week 9
+   * Day 0 - Monday (11am, location TBD)
+      * This is a guest speaker, attendance is required. I'm canceling a class in week 10 to make up for this extra hour of your attention (sorry for this, but its the only way to not throw off the reading schedule).
+      * Topic: Guest Speaker - [PhD Candidate Miles Roberts](https://milesroberts-123.github.io/)
+      * Note that class may be in a different room, this talk will be open to campus.
+      * Reading: [Pick one article from Dr. Sharps publications list](https://scholar.google.com/citations?user=OvPsJMQAAAAJ&hl=en&oi=ao)) Come ready to ask questions about it and see connections to their ongoing research.
+      * Due: WA8, "Growing as a Researcher"
    * Day 1
       * Topic: Speciation
       * Reading: Ch 16.1-16.2
@@ -204,6 +217,7 @@ Week 9
       * Topic: Evolution of incompatibilities - Lab 8
       * Reading: NA
       * Due: Lab 8, RHITER article reviews 
+      * In class - pick the final paper for next week.
 
 <!--
 * (BDMI, barriers to reproduction, maybe some math of these dynamics) 
@@ -222,8 +236,9 @@ Week 10
       * Reading: NA 
       * Due: NA
    * Day 3
-      * Topic: Guest speaker - [Dr. Nathaniel Sharp](https://genetics.wisc.edu/staff/sharp-nathaniel/)
-      * Reading: [Pick one article from Dr. Sharps publications list](https://scholar.google.com/citations?hl=en&user=wQKFHmMAAAAJ) Come ready to ask questions about it and see connections to their ongoing research.
+      * Topic: Only 1 hour, we'll do some final wrap up and discussion about one of these two papers. The class will decide.
+      * Epigenetics - [Pembrey. (2006). *Nature*](https://doi.org/10.1038/sj.ejhg.5201538) 
+      * Non-biological evolution - [Bowen. (2014). *Current Biology*](https://doi.org/10.1016/j.cub.2014.11.053) 
       * Due: Lab 9, RHITER final article, and response to reviewers 
 
 Finals week
@@ -308,19 +323,15 @@ Other assigned readings provided on moodle will be assumed knowledge for our dis
 
 Each student begins the quarter with <u>two tokens</u>, these are a second chance opportunity. They can be used on any assignment, submission, or activity throughout the quarter. If you are using a token you are expected to inform me within 2 days of the associated assessment item's normal due date (unless otherwise specified). 
 
-You will have several opportunities to gain tokens throughout the quarter. These might be grant for excellent participation, very good performance, or particularly insightful discussion. Robert will inform you of some opportunities to explicitly gain these tokens, but may grant them unannounced. Every interaction and submission should be considered an opportunity to use and gain tokens. A few good ways to earn tokens: send Robert and the class articles relevant to course topics that spark discussion, go above and beyond on analyses for Lab assignments, assist your peers in constructive ways.
+You will have several opportunities to gain tokens throughout the quarter. These might be grant for excellent participation, very good performance, or particularly insightful discussion. Robert will inform you of some opportunities to explicitly gain these tokens, but may grant them unannounced. Every interaction and submission should be considered an opportunity to use and gain tokens. A few good ways to earn tokens: send Robert and the class articles relevant to course topics that spark discussion, go above and beyond on analyses for Lab assignments, assist your peers in constructive ways and then have the peer inform the instructor of they ways you helped them learn!
 
 If you end the quarter with at least 2 tokens your final letter grade will receive a half letter-grade boost. 
-
-<h5>In-Class Participation</h5>
-
-You are expected to participate in discussions, activities, and some group work as part of class. This grade will reflect your participation in our live Teams meetings as well as participation through discussion in the Teams group. 
 
 <h5>Weekly Analyses</h5>
 
 *Description*
 
-Each Friday, you will receive by email a question relating to course material. You will submit a response to this question by Monday at class time on Gradescope. I will return your submission to you ASAP. The question will almost certainly require outside reading or information acquisition; it will definitely require you to practice thinking in the higher levels of Bloom's taxonomy. Submissions will be scored as per the attached guidelines, using a specifications grading approach. See me in office for clarification of scores or comments. You should indicate how long you spent working on the WA in your submission. 
+Each Friday, you will receive by email a question relating to course material. You will submit a response to this question by Tuesday at class time on Gradescope. I will return your submission to you ASAP. The question will almost certainly require outside reading or information acquisition; it will definitely require you to practice thinking in the higher levels of Bloom's taxonomy. Submissions will be scored as per the attached guidelines, using a specifications grading approach. See me in office for clarification of scores or comments. You should indicate how long you spent working on the WA in your submission. All WAs must be submitted using the Overleaf Template found on moodle. 
 
 Submissions must be written using the provided Overleaf project template.
 
@@ -373,7 +384,7 @@ These assignments will largely use the [SLiM simulation framework](https://messe
 
 <h5>Hypothesis Comments</h5>
 
-To practice discussing science and interpreting papers some of the required readings will be annotated collaboratively on moodle using the Hypothesis system. These comments are due day 2 of class each week by class time. Moodle has links to the instructions for the hypothesis system for more detail. 
+To practice discussing science and interpreting papers some of the required readings will be annotated collaboratively on moodle using the Hypothesis system. These comments are due day 2 of class each week at least 2 hours before class time. Moodle has links to the instructions for the hypothesis system for more detail. 
 
 You are required to make at least 2 annotations on each article, and comment on at least one annotation made by someone else. 
 
@@ -386,7 +397,16 @@ This will be graded on an all or nothing basis; to earn credit your annotations 
 
 Some of these articles will be long, and you need to spend serious time reading them to have meaningful conversations. They are all available right now and to practice discussing science together we all need to be engaged at the same time, so there will be no late annotations or tokens accepted for these assignments. 
 
-Starting a fruitful discussion and including meaningful outside references in your annotations and comments can earn you tokens for use on other assignments. 
+Starting a fruitful discussion and including meaningful outside references in your annotations and comments can earn you tokens for use on other assignments. Note that if you are doing these annotations 2 hours before class, there will be no time for useful discussion. You should check in with your comments and others comments before Day 2 of class each week so you are prepared for the in-class discussions.
+
+
+<h5>In-Class Participation</h5>
+
+You are expected to participate in discussions, activities, and some group work as part of class. This grade will reflect your participation in our live Teams meetings as well as participation through discussion in the Teams group. The "Growing as a Researcher" assignment you will recieve in week 8 contributed heavily to this grade. The prompt for this assignment is here:
+
+"As part of this course you've had to find, read, and understand many scientific sources. Explain how you approach to this process has changed during your time as a student. Give specific examples to demonstrate how you have grown as a researcher and what new learning strategies you have developed. Your response should explain at least two learning strategies you have developed or refined. Give at least one example of how you have used each of these strategies during assignments for BIO330."
+
+This assignment will be graded using the WA specifications outlined below, submit it using the WA template.
 
 <!-- replaced with hypothesis comments
 <h5>Evolution Minute</h5>
@@ -402,7 +422,7 @@ The cut-off for these posts and responses will be 5pm on Friday each week, at wh
 
 <h5>Final Project - RHITER Article</h5>
 
-Your final project will be writing a literature review about an evolution topic of your choice to be submitted to the journal Rose-Hulman Institute of Technology Evolution Review (RHITER). This is meant to be written as an invited review for evolutionary biologists who are non-experts in the topic you are presenting. You should model your review after papers in the journal [Annual Review of Ecology, Evolution, and Systematics](https://www.annualreviews.org/journal/ecolsys). Your formatting for this assignment should follow the guidelines [described by the journal](https://www.annualreviews.org/page/authors/general-information#ecolsys). 
+Your final project will be writing a literature review about an evolution topic of your choice to be submitted to the journal Rose-Hulman Institute of Technology Evolution Review (RHITER). This is meant to be written as an invited review for evolutionary biologists who are non-experts in the topic you are presenting. You should model your review after papers in the journal [Annual Review of Ecology, Evolution, and Systematics](https://www.annualreviews.org/journal/ecolsys). Your formatting for this assignment should follow the guidelines [described by the journal](https://www.annualreviews.org/page/authors/general-information#ecolsys). You will use the RHITER template provided on moodle and submit a pdf to gradescope for each milestone.
 
 Invited reviews like this are highly prestigious, highly cited, and can have huge impacts on the direction of a field for years after they are written. The goals of such reviews are to lay out the history of a field, the current state of research, and directions for future investigation. They usually focus on 2-3 specific ideas, methods, or theories and compare and contrast them. These reviews are more than a simple list of relevant references, they do high level synthesis in order to shape the future of research and indicate to new researchers where how the field got to its current state. 
 
@@ -414,9 +434,9 @@ This assignment will have 4 main components:
 You will submit a first draft of your review, this does not need to be completely written. Some sections can be stubs, however the main focus of the review and the stances it should take should be clear. A draft of any figures (hand-drawn approximations are fine) should be included. Additionally, the set of papers your review will rely on should be well fleshed out, and it should be clear how you are using the papers you will be citing. You will submit a pdf and a zip file of your Overleaf project to gradescope for portion of the assignment. You must use the provided Overleaf template for this article.
 
 *Submission and Review (20%)*
-You will submit a fully completed article that meets all of the journal's submission guidelines. This draft will be sent out to reviewers who will assess the appropriateness for your review for publication. 
+You will submit a fully completed article that meets all of the journal's submission guidelines. This draft will be sent out to reviewers who will assess the appropriateness for your review for publication. Note that "draft" does not mean "unedited", this should be a complete version of the document. Your submission is required to onclude at least one figure, that figure has to be created by you (not a reused figure from another paper), usually this figure will be made from combining data or findings from several papers you cite. You must own the copyright to this figure, meaning you cannot use one from another journal article.
 
-You will act as an anonymous reviewer for 2 other submissions. You are expected to write a review that assesses the quality and appropriateness of the review, and make a decision if the review should be accepted or rejected for publication. I recommend reading [Elsevier's guide to reviewers](https://www.elsevier.com/reviewers/how-to-review) and in particular [look at their sample review](https://www.sciencedirect.com/science/article/pii/S016819231630106X) before you write your review (they have some very good resources linked at the bottom of the guide too). When you are asked to review a submission the editor (aka Robert) will send you instructions on what to submit. 
+You will act as an anonymous reviewer for 2 other submissions to RHITER. You are expected to write a review that assesses the quality and appropriateness of the review, and make a decision if the review should be accepted or rejected for publication. I recommend reading [Elsevier's guide to reviewers](https://www.elsevier.com/reviewers/how-to-review) and in particular [look at their sample review](https://www.sciencedirect.com/science/article/pii/S016819231630106X) before you write your review (they have some very good resources linked at the bottom of the guide too). When you are asked to review a submission the editor (aka Robert) will send you instructions on what to submit. 
 
 Your article will be submitted as a pdf to Moodle (not gradescope) for this portion of the assignment.
 
@@ -463,13 +483,19 @@ Any kind of plagiarism or cheating will result in a severe penalty in the course
 
 Most importantly, any actions that reduce your ability or your opportunity to learn can be considered academic misconduct. Make sure you learn!
 
+<h4>Use of AI</h4>
+It is expected that any work submitted for assessment represents the intellectual work of the individual(s) submitting the work. Any attempt to pass off the intellectual work of another (including the work generated by Large Language Models, LLMs, like ChatGPT) as their own or without proper attribution is an example of academic misconduct and is subject to the penalties described in the Rose-Hulman Academic Rules and Procedures and Student Handbook documents. However, I believe that LLMs and other AI tools will become standard aids in most fields in our near future. So, I will not ban the use of these tools in this class. Before you use these tools you need to ask yourself:
+
+  1.	Is my use ethical? (e.g. Am I using the tool appropriately? Is [the amount of energy that will be consumed by this query reasonable](https://www.washington.edu/news/2023/07/27/how-much-energy-does-chatgpt-use/)? Am I harming others through my use? Am I harming the field of biology?)
+  2.	Is my use harming my own intellectual growth? (“The one who does the work, does the learning.” should be your mantra)
+
+If you use any LLM or any other AI as part of an assignment, I require you to attach the resulting inputs and outputs from the use to your assignments. This serves a few purposes. 1) I can see how you are using it, to make sure you aren’t missing something important in what you are supposed to be doing. 2) You are more protected from claims of academic dishonesty. 3) I can verify that the tool is not lying to you. 4) We can learn how to better use these tools together. If I discover that you have used an LLM without attribution you will receive a grade penalty appropriate to the severity of the use and I will submit a notice of academic dishonesty to the Dean of Faculty and Dean of Students, per the guidelines in the student handbook. Particularly ingenuitive and appropriate uses of AI in this class can earn you tokens, if they meet the guidelines above. 
+
 <h4>Concerns or Feedback</h4>
 
 I strongly encourage students to document special academic needs with staff at the Office of Student Affairs and/or the Counseling Center, and then to contact me as soon as possible so that we can work together to provide recommended academic accommodations while protecting your privacy.
 
-If you have any concerns about any course matters, you should tell someone. You can email your instructor, speak to your instructor, or leave anonymous feedback in Moodle. You can also contact the [department head](mailto:ahmed@rose-hulman.edu), [Student Affairs](https://www.rose-hulman.edu/campus-life/student-affairs/index.html), or another Rose employee you feel comfortable with.
-
-While you are more than welcome to consult any member of our department if you have concerns, we realize it's helpful to have a few names to start with. If you have a concern and are not sure where to go, the following CSSE faculty have volunteered to be help out with any concerns you may have: Amanda Stouder (F222) and Kim Tracy (D216) or appropriate BIO faculty.
+If you have any concerns about any course matters, you should tell someone. You can email your instructor, speak to your instructor, or leave anonymous feedback in Moodle. You can also contact the [department head](mailto:weiner@rose-hulman.edu), [Student Affairs](https://www.rose-hulman.edu/campus-life/student-affairs/index.html), or another Rose employee you feel comfortable with.
 
 This syllabus is subject to revision with prompt notification of enrolled students. 
 
