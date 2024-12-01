@@ -86,7 +86,9 @@ Week 3
       * Due: Lab 2
    
 
- :snowflake: :snowflake: :snowflake: :snowflake: WINTER BREAK :snowflake: :snowflake: :snowflake: :snowflake:
+<hr>
+❄️❄️❄️❄️❄️❄️❄️❄️ WINTER BREAK ❄️❄️❄️❄️❄️❄️❄️❄️
+<hr>
 <!--
 * paper about the size of mutations, or frequency of them? or types?
 * paper about the highways and deer/coyotes etc
@@ -204,11 +206,10 @@ Week 9
       * Topic: Guest Speaker - [PhD Candidate Miles Roberts](https://milesroberts-123.github.io/)
       * Note that class may be in a different room, this talk will be open to campus.
       * Reading: [Pick one article from Dr. Sharps publications list](https://scholar.google.com/citations?user=OvPsJMQAAAAJ&hl=en&oi=ao)) Come ready to ask questions about it and see connections to their ongoing research.
-      * Due: WA8, "Growing as a Researcher"
    * Day 1
       * Topic: Speciation
       * Reading: Ch 16.1-16.2
-      * Due: WA8
+      * Due: WA8, "Growing as a Researcher" Assignment
    * Day 2
       * Topic: Speciation
       * Reading: [Fishman & Sweigart. (2018). *ARPB*](https://doi.org/10.1146/annurev-arplant-042817-040113)
