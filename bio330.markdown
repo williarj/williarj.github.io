@@ -162,7 +162,7 @@ Week 7
    * Day 3
       * Topic: Reviewing articles and Simulating inbreeding - Lab 7
       * Reading: [Pike et. al. *Proc B*](https://doi.org/10.1098/rspb.2021.1045), read the article and the review history (the red button right above the abstract will open this)
-      [THE REVIEWS Helgason et al. (2008) *Science*](https://doi.org/10.1126/science.1150232)
+      <!--[THE REVIEWS Helgason et al. (2008) *Science*](https://doi.org/10.1126/science.1150232)-->
       * Due: Lab 6, RHITER article draft 
 
 <!--
@@ -201,7 +201,7 @@ Week 8
    
   
 Week 9
-   * Day 0 - Monday (11am, location TBD)
+   * Day 0 - Monday (1pm, B111)
       * This is a guest speaker, attendance is required. I'm canceling a class in week 10 to make up for this extra hour of your attention (sorry for this, but its the only way to not throw off the reading schedule).
       * Topic: Guest Speaker - [PhD Candidate Miles Roberts](https://milesroberts-123.github.io/)
       * Note that class may be in a different room, this talk will be open to campus.
