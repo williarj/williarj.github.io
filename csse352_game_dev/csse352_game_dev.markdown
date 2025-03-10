@@ -79,14 +79,14 @@ You are expected to complete readings by Friday of each week. Reading chapters b
 * Readings: Ch 10
 * Patters: Visitor
 <!-- * Due: Friday - Cabbage sounds -->
-<!-- * Assigned: Friday - Cabbage network <!-- extra credit maybe? --> -->
+<!-- * Assigned: Friday - Cabbage network <-- extra credit maybe? --> 
 <!-- Networking, high scores for cabbage world, maybe multiplayer cabbages? -->
 <!-- power ups, save game, reading files, modding, procedural generation?, ScriptableObjects -->
 
 <h3> Weekend - Game Jam </h3>
 * Readings: NA
 * Due: Monday - Jam Entry
-* Notes: You will make a team repo for your code. You can name your team anything, but your team name must start with the prefix `csse352-2223c-` (e.g. `csse352-2223c-roberts-awesome-team`). [This is the link to your Game Jam repo](COMING SOON)
+* Notes: You will make a team repo for your code. You can name your team anything, but your team name must start with the prefix `csse352-2223c-` (e.g. `csse352-2223c-roberts-awesome-team`). [This is the link to your Game Jam repo](https://classroom.github.com/a/4nLyEJJD)
 <!-- Game Jam -->
 
 <h3> Week 9 - Game Demos and Advanced topics </h3>
@@ -132,7 +132,7 @@ Unity will default to using VisualStudio as the IDE, you can use whatever you wa
 
 Unity has some click-intensive activities, you are required to bring a mouse to class for working with this tool. *Track-pads are not sufficient.*
 
-We'll be using Github classroom for code submissions. There will be only one repo for all homeworks. You should add a new folder for each Homework, you should name the folders based on the week they are assigned (e.g. "CabbageWorld" should be in folder "Week2HW" since it is assigned in week 2). When one homework builds on a previous one, please make a new folder and copy all the contents from the old homework over. You can find the [link for the homework assignments repos here](https://classroom.github.com/a/oH_ljSiL)
+We'll be using Github classroom for code submissions. There will be only one repo for all homeworks. You should add a new folder for each Homework, you should name the folders based on the week they are assigned (e.g. "CabbageWorld" should be in folder "Week2HW" since it is assigned in week 2). When one homework builds on a previous one, please make a new folder and copy all the contents from the old homework over. You can find the [link for the homework assignments repos here](https://classroom.github.com/a/S5HVHP4V)
 
 <h4>Texts</h4>
 Required text:
